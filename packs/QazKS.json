@@ -1,0 +1,354 @@
+{
+	"name": "QazKsPack",
+	"displayName": "Qaz's Kitchen sink pack",
+	"author": "Qazplm601",
+	"description": "Qaz's KS pack is a pack designed for if you want a good all around pack, not a specialised pack.\n\nThis pack contains Fastcraft, by Player, enabled by default. Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled.",
+	"logoUrl": "https://avatars1.githubusercontent.com/u/13340500?v=3&s=200",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"changelogUrl": "http://pastebin.com/raw.php?i=6UrEEYVQ",
+			"mcVersion": "1.7.10",
+			"forgeVersion": "10.13.4.1492-1.7.10",
+			"overrideUrl": "",
+			"mods": [
+				{
+					"name": "Agricraft",
+					"url": "http://minecraft.curseforge.com/mc-mods/225635-agricraft",
+					"authors": ["Infinityraider"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225635-agricraft/files/2229714/download",
+					"fileName": "AgriCraft-1.7.10-1.3.1.jar"
+				},
+				{
+					"name": "Applied energistics 2",
+					"url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2",
+					"authors": ["AlgorithmX2"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2245762/download",
+					"fileName": "appliedenergistics2-rv2-stable-10.jar"
+				},
+				{
+					"name": "AquaTweaks",
+					"url": "http://www.curse.com/mc-mods/minecraft/231659-aquatweaks",
+					"authors": ["BluSunrize"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2243/845/AquaTweaks-1.7.10-1.0.jar",
+					"fileName": "AquaTweaks-1.7.10-1.0.jar"
+				},
+				{
+					"name": "Arcane Arteries",
+					"url": "http://minecraft.curseforge.com/mc-mods/230977-arcane-arteries/",
+					"authors": ["Jordsta95"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/230977-arcane-arteries/files/2243559/download",
+					"fileName": "Arcane Arteries0.6.jar"
+				},
+				{
+					"name": "Alternate Terrain Generation",
+					"url": "http://www.curse.com/mc-mods/minecraft/228356-alternate-terrain-generation/",
+					"authors": ["TTFTCUTS"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2231/153/ATG-1.7.10-0.12.0.jar",
+					"fileName": "ATG-1.7.10-0.12.0.jar"
+				},
+				{
+					"name": "Automagy",
+					"url": "http://www.curse.com/mc-mods/minecraft/222153-automagy/",
+					"authors": ["Tuhljin"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2249/572/Automagy-1.7.10-0.26.3.jar",
+					"fileName": "Automagy-1.7.10-0.26.3.jar"
+				},
+				{
+					"name": "Bibliocraft",
+					"url": "http://minecraft.curseforge.com/mc-mods/228027-bibliocraft/",
+					"authors": ["NucHaz"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228027-bibliocraft/files/2235545/download",
+					"fileName": "BiblioCraft[v1.10.4][MC1.7.10].jar"
+				},
+				{
+					"name": "Blood Magic",
+					"url": "http://minecraft.curseforge.com/mc-mods/224791-blood-magic",
+					"authors": ["WayofTime"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/224791-blood-magic/files/2248222/download",
+					"fileName": "BloodMagic-1.7.10-1.3.3-11.jar"
+				},
+				{
+					"name": "BluePower",
+					"url": "http://minecraft.curseforge.com/mc-mods/223099-blue-power",
+					"authors": ["Quetzi", "amadornes", "K4Unl", "MineMaarten", "RavenWhitefang"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223099-blue-power/files/2245097/download",
+					"fileName": "BluePower-1.7.10-0.2.954-universal.jar"
+				},
+				{
+					"name": "Botania",
+					"url": "http://botaniamod.net/",
+					"authors": ["Vazkii"],
+					"downloadUrl": "http://botaniamod.net/dl.php?file=Botania%20r1.7-207.jar",
+					"fileName": "Botania r1.7-207.jar"
+				},
+				{
+					"name": "Buildcraft",
+					"url": "http://www.mod-buildcraft.com/",
+					"authors": ["CovertJauguar"],
+					"downloadUrl": "http://www.mod-buildcraft.com/releases/BuildCraft/7.0.17/buildcraft-7.0.17.jar",
+					"fileName": "buildcraft-7.0.17.jar"
+				},
+				{
+					"name": "Buildcraft Compat",
+					"url": "http://www.mod-buildcraft.com/",
+					"authors": ["CovertJaguar"],
+					"downloadUrl": "http://www.mod-buildcraft.com/releases/BuildCraftCompat/7.0.9/buildcraft-compat-7.0.9.jar",
+					"fileName": "buildcraft-compat-7.0.9.jar"
+				},
+				{
+					"name": "Carpenter's Blocks",
+					"url": "http://www.carpentersblocks.com/",
+					"authors": ["Mineshopper"],
+					"downloadUrl": "https://dl.dropboxusercontent.com/s/s9znw0qzpjtfa1a/Carpenter%27s%20Blocks%20v3.3.7%20DEV%20-%20MC%201.7.10.jar",
+					"fileName": "Carpenter's Blocks v3.3.7 DEV - MC 1.7.10.jar"
+				},
+				{
+					"name": "Chisel 2",
+					"url": "http://minecraft.curseforge.com/mc-mods/225236-chisel-2",
+					"authors": ["TheCricket26", "Drullkus", "tterrag1098","warlordjones"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225236-chisel-2/files/2245312/download",
+					"fileName": "Chisel2-2.4.1.40.jar"
+				},
+				{
+					"name": "CodeChickenCore",
+					"url": "http://chickenbones.net/Pages/links.html",
+					"authors": ["ChickenBones"],
+					"downloadUrl": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.7.46/CodeChickenCore-1.7.10-1.0.7.46-universal.jar",
+					"fileName": "CodeChickenCore-1.7.10-1.0.7.46-universal.jar"
+				},
+				{
+					"name": "EnderIO",
+					"url": "http://minecraft.curseforge.com/mc-mods/64578-ender-io/",
+					"authors": ["CrazyPants", "tterrag1098", "MatthiasM"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/64578-ender-io/files/2238375/download",
+					"fileName": "EnderIO-1.7.10-2.2.8.381.jar"
+				},
+				{
+					"name": "EnderZoo",
+					"url": "http://minecraft.curseforge.com/mc-mods/225247-ender-zoo/",
+					"authors": ["CrazyPants", "tterrag1098"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225247-ender-zoo/files/2236951/download",
+					"fileName": "EnderZoo-1.7.10-1.0.11.28.jar"
+				},
+				{
+					"name": "Extra Utilities",
+					"url": "http://minecraft.curseforge.com/mc-mods/225561-extra-utilities/",
+					"authors": ["RWTema"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225561-extra-utilities/files/2245889/download",
+					"fileName": "extrautilities-1.2.8.jar"
+				},
+				{
+					"name": "Farseek",
+					"url": "http://www.curse.com/mc-mods/minecraft/229708-farseek/",
+					"authors": ["delvr"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2238/182/Farseek-1.0.8.jar",
+					"fileName": "Farseek-1.0.8.jar"
+				},
+				{
+					"name": "Fastcraft",
+					"url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820",
+					"authors": ["Player"],
+					"downloadUrl": "http://files.player.to/fastcraft-1.21.jar",
+					"fileName": "fastcraft-1.21.jar"
+				},
+				{
+					"name": "Flaxbeard's Steam power",
+					"url": "http://www.curse.com/mc-mods/minecraft/224867-flaxbeards-steam-power/",
+					"authors": ["SatanicSanta", "Xbony2"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2231/671/Flaxbeard'sSteamPower-1.7.10-0.28.7.jar",
+					"fileName": "Flaxbeard'sSteamPower-1.7.10-0.28.7.jar"
+				},
+				{
+					"name": "Hardcore Ender Expansion",
+					"url": "http://minecraft.curseforge.com/mc-mods/228015-hardcore-ender-expansion/",
+					"authors": ["chylex"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228015-hardcore-ender-expansion/files/2244398/download",
+					"fileName": "HardcoreEnderExpansion MC-1.7.10 v1.8.2.jar"
+				},
+				{
+					"name": "Inventory Tweaks",
+					"url": "http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks/",
+					"authors": ["Kobata"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks/files/2210792/download",
+					"fileName": "InventoryTweaks-1.59-dev-152.jar"
+				},
+				{
+					"name": "Iron Chests",
+					"url": "http://minecraft.curseforge.com/mc-mods/228756-iron-chests/",
+					"authors": ["progwml6"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228756-iron-chests/files/2230908/download",
+					"fileName": "ironchest-1.7.10-6.0.62.742-universal.jar"
+				},
+				{
+					"name": "JourneyMap",
+					"url": "http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/",
+					"authors": ["Techbrew"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2243498/download",
+					"fileName": "journeymap-1.7.10-5.1.0rc4-unlimited.jar"
+				},
+				{
+					"name": "Mantle",
+					"url": "http://minecraft.curseforge.com/mc-mods/74924-mantle/",
+					"authors": ["mDiyo", "boni", "progwml6"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/74924-mantle/files/2215235/download",
+					"fileName": "Mantle-1.7.10-0.3.2.jar"
+				},
+				{
+					"name": "Mekanisim",
+					"url": "http://aidancbrady.com/mekanism/",
+					"authors": ["aidancbrady"],
+					"downloadUrl": "http://aidancbrady.com/wp-content/uploads/mekanism/249-recommended/Mekanism-1.7.10-8.1.6.249.jar",
+					"fileName": "Mekanism-1.7.10-8.1.6.249.jar"
+				},
+				{
+					"name": "MekanisimGenerators",
+					"url": "http://aidancbrady.com/mekanism/",
+					"authors": ["aidancbrady"],
+					"downloadUrl": "http://aidancbrady.com/wp-content/uploads/mekanism/249-recommended/MekanismGenerators-1.7.10-8.1.6.249.jar",
+					"fileName": "MekanismGenerators-1.7.10-8.1.6.249.jar"
+				},
+				{
+					"name": "MekanisimTools",
+					"url": "http://aidancbrady.com/mekanism/",
+					"authors": ["aidancbrady"],
+					"downloadUrl": "http://aidancbrady.com/wp-content/uploads/mekanism/249-recommended/MekanismTools-1.7.10-8.1.6.249.jar",
+					"fileName": "MekanismTools-1.7.10-8.1.6.249.jar"
+				},
+				{
+					"name": "MineTweaker",
+					"url": "http://minetweaker3.powerofbytes.com/",
+					"authors": ["StanH"],
+					"downloadUrl": "http://minetweaker3.powerofbytes.com/download/MineTweaker3-1.7.10-3.0.9C.jar",
+					"fileName": "MineTweaker3-1.7.10-3.0.9C.jar"
+				},
+				{
+					"name": "Natura",
+					"url": "http://minecraft.curseforge.com/mc-mods/74120-natura/",
+					"authors": ["mDiyo", "progwml6"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/74120-natura/files/2216125/download",
+					"fileName": "natura-1.7.10-2.2.0.1.jar"
+				},
+				{
+					"name": "NEI Addons",
+					"url": "http://bdew.net/",
+					"authors": ["Bdew"],
+					"downloadUrl": "http://bdew.net/download/neiaddons-1.12.11.36-mc1.7.10.jar",
+					"fileName": "neiaddons-1.12.11.36-mc1.7.10.jar"
+				},
+				{
+					"name": "NEI Integretion",
+					"url": "http://www.curse.com/mc-mods/minecraft/225251-nei-integration/",
+					"authors": ["tonius111"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2244/528/NEIIntegration-MC1.7.10-1.0.11.jar",
+					"fileName": "NEIIntegration-MC1.7.10-1.0.11.jar"
+				},
+				{
+					"name": "Not Enough Items",
+					"url": "http://chickenbones.net/Pages/links.html",
+					"authors": ["Chickenbones"],
+					"downloadUrl": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.5.111/NotEnoughItems-1.7.10-1.0.5.111-universal.jar",
+					"fileName": "NotEnoughItems-1.7.10-1.0.5.111-universal.jar"
+				},
+				{
+					"name": "OpenBlocks",
+					"url": "http://openmods.info/",
+					"authors": ["OpenModsTeam"],
+					"downloadUrl": "http://openmods.info/downloads/OpenBlocks-1.7.10-1.4.3.jar",
+					"fileName": "OpenBlocks-1.7.10-1.4.3.jar"
+				},
+				{
+					"name": "Open Computers",
+					"url": "http://www.curse.com/mc-mods/minecraft/223008-opencomputers/",
+					"authors": ["kethtar"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2246/767/OpenComputers-MC1.8-1.5.14.32-universal.jar",
+					"fileName": "OpenComputers-MC1.8-1.5.14.32-universal.jar"
+				},
+				{
+					"name": "OpenModsLib",
+					"url": "http://openmods.info/",
+					"authors": ["OpenModsTeam"],
+					"downloadUrl": "http://openmods.info/downloads/OpenModsLib-1.7.10-0.7.3.jar",
+					"fileName": "OpenModsLib-1.7.10-0.7.3.jar"
+				},
+				{
+					"name": "QmunityLib",
+					"url": "http://minecraft.curseforge.com/mc-mods/224785-qmunitylib/",
+					"authors": ["Quetzi", "amadornes", "K4Unl", "MineMaarten"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/224785-qmunitylib/files/2241123/download",
+					"fileName": "QmunityLib-1.7.10-0.1.114-universal.jar"
+				},
+				{
+					"name": "Railcraft",
+					"url": "http://minecraft.curseforge.com/mc-mods/51195-railcraft/",
+					"authors": ["CovertJaguar"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/51195-railcraft/files/2235453/download",
+					"fileName": "Railcraft_1.7.10-9.6.1.0.jar"
+				},
+				{
+					"name": "Random Things",
+					"url": "http://minecraft.curseforge.com/mc-mods/59816-random-things/",
+					"authors": ["lumien"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/59816-random-things/files/2225310/download",
+					"fileName": "Random Things"
+				},
+				{
+					"name": "Streams",
+					"url": "http://www.curse.com/mc-mods/minecraft/229769-streams/",
+					"authors": ["delvr"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2235/111/Streams-0.1.4.jar",
+					"fileName": "Streams-0.1.4.jar"
+				},
+				{
+					"name": "Thaumcraft",
+					"url": "http://www.curse.com/mc-mods/minecraft/223628-thaumcraft/",
+					"authors": ["Azanor"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2227/552/Thaumcraft-1.7.10-4.2.3.5.jar",
+					"fileName": "Thaumcraft-1.7.10-4.2.3.5.jar"
+				},
+				{
+					"name": "Thaumcraft NEI Plugin",
+					"url": "http://minecraft.curseforge.com/mc-mods/225095-thaumcraft-nei-plugin/",
+					"authors": ["DjGiannuzz"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225095-thaumcraft-nei-plugin/files/2241913/download",
+					"fileName": "thaumcraftneiplugin-1.7.10-1.7a.jar"
+				},
+				{
+					"name": "Thaumic Tinker",
+					"url": "http://minecraft.curseforge.com/mc-mods/75598-thaumic-tinkerer/",
+					"authors": ["pixlepix"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/75598-thaumic-tinkerer/files/2232793/download",
+					"fileName": "ThaumicTinkerer-2.5-1.7.10-164.jar"
+				},
+				{
+					"name": "Twilight Forest",
+					"url": "http://www.curse.com/mc-mods/minecraft/227639-the-twilight-forest/",
+					"authors": ["Benimatic"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2238/492/twilightforest-1.7.10-2.3.7.jar",
+					"fileName": "twilightforest-1.7.10-2.3.7.jar"
+				},
+				{
+					"name": "WAILA",
+					"url": "http://minecraft.curseforge.com/mc-mods/73488-waila/",
+					"authors": ["profmobius"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/73488-waila/files/2230518/download",
+					"fileName": "Waila-1.5.10_1.7.10.jar"
+				},
+				{
+					"name": "Witchery",
+					"url": "http://www.curse.com/mc-mods/minecraft/witchery/",
+					"authors": ["Emoniph"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2234/410/witchery-1.7.10-0.24.1.jar",
+					"fileName": "witchery-1.7.10-0.24.1.jar"
+				},
+				{
+					"name": "Wireless Redstone Chicken Bones Edition",
+					"url": "http://chickenbones.net/Pages/links.html",
+					"authors": ["chickenbones"],
+					"downloadUrl": "http://chickenbones.net/maven/codechicken/WR-CBE/1.7.10-1.4.1.9/WR-CBE-1.7.10-1.4.1.9-universal.jar",
+					"fileName": "WR-CBE-1.7.10-1.4.1.9-universal.jar"
+				},
+			]
+		}
+	]
+}
