@@ -240,8 +240,8 @@
 					"name": "Open Computers",
 					"url": "http://www.curse.com/mc-mods/minecraft/223008-opencomputers/",
 					"authors": ["kethtar"],
-					"downloadUrl": "http://addons.curse.cursecdn.com/files/2246/767/OpenComputers-MC1.8-1.5.14.32-universal.jar",
-					"fileName": "OpenComputers-MC1.8-1.5.14.32-universal.jar"
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223008-opencomputers/files/2246766/download",
+					"fileName": "OpenComputers-MC1.7.10-1.5.14.30-universal.jar"
 				},
 				{
 					"name": "OpenModsLib",
