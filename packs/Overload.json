@@ -160,6 +160,13 @@
 					"fileName": "Flaxbeard'sSteamPower-1.7.10-0.28.7.jar"
 				},
 				{
+					"name": "Forge Multipart",
+					"url": "https://github.com/Chicken-Bones/ForgeMultipart",
+					"authors": ["ChickenBones"],
+					"downloadUrl": "http://files.minecraftforge.net/maven/codechicken/ForgeMultipart/1.7.10-1.2.0.345/ForgeMultipart-1.7.10-1.2.0.345-universal.jar",
+					"fileName": "ForgeMultipart-1.7.10-1.2.0.345-universal.jar"
+				}
+				{
 					"name": "Hardcore Ender Expansion",
 					"url": "http://minecraft.curseforge.com/mc-mods/228015-hardcore-ender-expansion/",
 					"authors": ["chylex"],
