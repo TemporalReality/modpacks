@@ -195,31 +195,10 @@
 					"fileName": "Mantle-1.7.10-0.3.2.jar"
 				},
 				{
-					"name": "Mekanisim",
-					"url": "http://aidancbrady.com/mekanism/",
-					"authors": ["aidancbrady"],
-					"downloadUrl": "http://aidancbrady.com/wp-content/uploads/mekanism/249/Mekanism-1.7.10-8.1.6.249.jar",
-					"fileName": "Mekanism-1.7.10-8.1.6.249.jar"
-				},
-				{
-					"name": "MekanisimGenerators",
-					"url": "http://aidancbrady.com/mekanism/",
-					"authors": ["aidancbrady"],
-					"downloadUrl": "http://aidancbrady.com/wp-content/uploads/mekanism/249/MekanismGenerators-1.7.10-8.1.6.249.jar",
-					"fileName": "MekanismGenerators-1.7.10-8.1.6.249.jar"
-				},
-				{
-					"name": "MekanisimTools",
-					"url": "http://aidancbrady.com/mekanism/",
-					"authors": ["aidancbrady"],
-					"downloadUrl": "http://aidancbrady.com/wp-content/uploads/mekanism/249/MekanismTools-1.7.10-8.1.6.249.jar",
-					"fileName": "MekanismTools-1.7.10-8.1.6.249.jar"
-				},
-				{
 					"name": "MineTweaker",
 					"url": "http://minetweaker3.powerofbytes.com/",
 					"authors": ["StanH"],
-					"downloadUrl": "http://minetweaker3.powerofbytes.com/download/MineTweaker3-1.7.10-3.0.9C.jar",
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/224029-minetweaker3/files/2233934/download",
 					"fileName": "MineTweaker3-1.7.10-3.0.9C.jar"
 				},
 				{
@@ -233,14 +212,14 @@
 					"name": "NEI Addons",
 					"url": "http://bdew.net/",
 					"authors": ["Bdew"],
-					"downloadUrl": "http://bdew.net/download/neiaddons-1.12.11.36-mc1.7.10.jar",
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/63352-nei-addons/files/2246485/download",
 					"fileName": "neiaddons-1.12.11.36-mc1.7.10.jar"
 				},
 				{
 					"name": "NEI Integretion",
 					"url": "http://www.curse.com/mc-mods/minecraft/225251-nei-integration/",
 					"authors": ["tonius111"],
-					"downloadUrl": "http://addons.curse.cursecdn.com/files/2244/528/NEIIntegration-MC1.7.10-1.0.11.jar",
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225251-nei-integration/files/2250689/download",
 					"fileName": "NEIIntegration-MC1.7.10-1.0.11.jar"
 				},
 				{
