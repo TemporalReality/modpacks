@@ -1,0 +1,579 @@
+{
+	"name": "endeavour",
+	"displayName": "Endeavour",
+	"author": "Temporal Reality Team",
+	"description": "<info needed>",
+	"logoUrl": "https://www.dropbox.com/s/ihxqsifqg6h6ceo/logo.png?dl=0",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"changelogUrl": "",
+			"mcVersion": "1.7.10",
+			"forgeVersion": "10.13.4.1488",
+			"overrideUrl": "https://www.dropbox.com/s/0s1p8pah4adjrw7/overrides4.zip?dl=1",
+			"mods": [
+				{
+					"name": "Advanced Generators",
+					"url": "http://minecraft.curseforge.com/mc-mods/223622-advanced-generators/files/2250501",
+					"authors": ["bdew"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223622-advanced-generators/files/2250501/download",
+					"fileName": "generators-0.9.18.107-mc1.7.10.jar"
+				},
+				{
+					"name": "AE2 Stuff",
+					"url": "http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff/files/2250831",
+					"authors": ["bdew"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff/files/2250831/download",
+					"fileName": "ae2stuff-0.5.0.50-mc1.7.10.jar"
+				},
+				{
+					"name": "Agricraft",
+					"url": "http://minecraft.curseforge.com/mc-mods/225635-agricraft/files/2250555",
+					"authors": ["InfinityRaider"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225635-agricraft/files/2250555/download",
+					"fileName": "AgriCraft-1.7.10-1.4.0-beta-1-1.7.10.jar"
+				},
+				{
+					"name": "Alternate Terrain Generation",
+					"url": "http://minecraft.curseforge.com/mc-mods/228356-alternate-terrain-generation/files/2231153",
+					"authors": ["TTFTCUTS"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228356-alternate-terrain-generation/files/2231153/download",
+					"fileName": "ATG-1.7.10-0.12.0.jar"
+				},
+				{
+					"name": "Animals Plus",
+					"url": "http://clickme.cu.cc/animals.php",
+					"authors": ["Click_Me"],
+					"downloadUrl": "http://clickme.cu.cc/dl/animalsPlus-1.2.jar",
+					"fileName": "animalsPlus-1.2.jar"
+				},
+				{
+					"name": "Another One Bites the Dust",
+					"url": "http://minecraft.curseforge.com/mc-mods/221863-another-one-bites-the-dust/files/2250723",
+					"authors": ["ganymedes01"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/221863-another-one-bites-the-dust/files/2250723/download",
+					"fileName": "AOBD-2.8.1.jar"
+				},
+				{
+					"name": "Applied Energistics 2",
+					"url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2245762",
+					"authors": ["AlgorithmX2"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2245762/download",
+					"fileName": "appliedenergistics2-rv2-stable-10.jar"
+				},
+				{
+					"name": "Aqua Tweaks",
+					"url": "http://minecraft.curseforge.com/mc-mods/231659-aquatweaks/files/2243845",
+					"authors": ["BluSunrize"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/231659-aquatweaks/files/2243845/download",
+					"fileName": "AquaTweaks-1.7.10-1.0.jar"
+				},
+				{
+					"name": "Arcane Arteries",
+					"url": "http://minecraft.curseforge.com/mc-mods/230977-arcane-arteries/files/2243559",
+					"authors": ["BluSunrize"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/230977-arcane-arteries/files/2243559/download",
+					"fileName": "Arcane Arteries0.6.jar"
+				},
+				{
+					"name": "Attained Drops",
+					"url": "http://minecraft.curseforge.com/mc-mods/225308-attained-drops/files/2221845",
+					"authors": ["VapourDrive"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225308-attained-drops/files/2221845/download",
+					"fileName": "AttainedDrops-1.7.10-1.3.jar"
+				},
+				{
+					"name": "Aura Cascade",
+					"url": "http://minecraft.curseforge.com/mc-mods/227099-aura-cascade/files/2250621",
+					"authors": ["pixlepix"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/227099-aura-cascade/files/2250621/download",
+					"fileName": "AuraCascade-538.jar"
+				},
+				{
+					"name": "Automagy",
+					"url": "http://minecraft.curseforge.com/mc-mods/222153-automagy/files/2249572",
+					"authors": ["Tuhljin"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222153-automagy/files/2249572/download",
+					"fileName": "Automagy-1.7.10-0.26.3.jar"
+				},
+				{
+					"name": "BdLib",
+					"url": "http://minecraft.curseforge.com/mc-mods/70496-bdlib/files/2250743",
+					"authors": ["bdew"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/70496-bdlib/files/2250743/download",
+					"fileName": "bdlib-1.9.2.101-mc1.7.10.jar"
+				},
+				{
+					"name": "BetterFoliage",
+					"url": "http://minecraft.curseforge.com/mc-mods/228529-better-foliage/files/2239969",
+					"authors": ["octarine_noise"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228529-better-foliage/files/2239969/download",
+					"fileName": "BetterFoliage-mc1.7-1.0.13.jar.disabled"
+				},
+				{
+					"name": "BetterStorage",
+					"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442380-betterstorage-0-13-1-126-wip",
+					"authors": ["copygirl"],
+					"downloadUrl": "https://github.com/copygirl/BetterStorage/releases/download/v0.13.1.126/BetterStorage-1.7.10-0.13.1.126.jar",
+					"fileName": "BetterStorage-1.7.10-0.13.1.126.jar"
+				},
+				{
+					"name": "Bibliocraft",
+					"url": "http://minecraft.curseforge.com/mc-mods/228027-bibliocraft/files/2249168",
+					"authors": ["Nuchaz"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228027-bibliocraft/files/2249168/download",
+					"fileName": "BiblioCraft[v1.10.5][MC1.7.10].jar"
+				},
+				{
+					"name": "Big Doors",
+					"url": "http://minecraft.curseforge.com/mc-mods/232398-big-doors/files/2245724",
+					"authors": ["jaquadro"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/232398-big-doors/files/2245724/download",
+					"fileName": "BigDoors-1.7.10-1.0.0.jar"
+				},
+				{
+					"name": "Big Reactors",
+					"url": "http://www.big-reactors.com/#/",
+					"authors": ["Erogenous Beef"],
+					"downloadUrl": "http://www.big-reactors.com/download/alpha/BigReactors-0.4.3A.jar",
+					"fileName": "BigReactors-0.4.3A.jar"
+				},
+				{
+					"name": "Binnie's Mods",
+					"url": "http://minecraft.curseforge.com/mc-mods/223525-binnies-mods/files/2246131",
+					"authors": ["Binnie567"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223525-binnies-mods/files/2246131/download",
+					"fileName": "binnie-mods-2.0-pre14.jar"
+				},
+				{
+					"name": "BiomeTweaker",
+					"url": "http://minecraft.curseforge.com/mc-mods/228895-biometweaker/files/2244910",
+					"authors": ["superckl"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228895-biometweaker/files/2244910/download",
+					"fileName": "BiomeTweaker-1.7.10-1.2.128.jar"
+				},
+				{
+					"name": "Blood Arsenal",
+					"url": "http://minecraft.curseforge.com/mc-mods/228823-blood-magic-addon-blood-arsenal/files/2245517",
+					"authors": ["Arcaratus"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228823-blood-magic-addon-blood-arsenal/files/2245517/download",
+					"fileName": "BloodArsenal-1.7.10-1.1-14.jar"
+				},
+				{
+					"name": "Blood Magic",
+					"url": "http://minecraft.curseforge.com/mc-mods/224791-blood-magic/files/2248222",
+					"authors": ["WayofTime"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/224791-blood-magic/files/2248222/download",
+					"fileName": "BloodMagic-1.7.10-1.3.3-11.jar"
+				},
+				{
+					"name": "Botania",
+					"url": "http://minecraft.curseforge.com/mc-mods/225643-botania/files/2249359",
+					"authors": ["Vazkii"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225643-botania/files/2249359/download",
+					"fileName": "Botania r1.7-208.jar"
+				},
+				{
+					"name": "Buildcraft",
+					"url": "http://minecraft.curseforge.com/mc-mods/61811-buildcraft/files/2250815",
+					"authors": ["asiekierka and the BC team"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/61811-buildcraft/files/2250815/download",
+					"fileName": "buildcraft-7.0.19.jar"
+				},
+				{
+					"name": "Buildcraft Compat",
+					"url": "http://minecraft.curseforge.com/mc-mods/233140-buildcraft-compat/files/2250823",
+					"authors": ["asiekierka and the BC team"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/233140-buildcraft-compat/files/2250823/download",
+					"fileName": "buildcraft-compat-7.0.10.jar"
+				},
+				{
+					"name": "Carpenter's Blocks",
+					"url": "http://minecraft.curseforge.com/mc-mods/228932-carpenters-blocks/files/2233617",
+					"authors": ["Mineshopper"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228932-carpenters-blocks/files/2233617/download",
+					"fileName": "Carpenter's Blocks v3.3.6 - MC 1.7.10.jar"
+				},
+				{
+					"name": "Chisel 2",
+					"url": "http://minecraft.curseforge.com/mc-mods/225236-chisel-2/files/2245312",
+					"authors": ["TheCricket26"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225236-chisel-2/files/2245312/download",
+					"fileName": "Chisel2-2.4.1.40.jar"
+				},
+				{
+					"name": "Chisel Tones",
+					"url": "http://minecraft.curseforge.com/mc-mods/228004-chiseltones/files/2228226",
+					"authors": ["TehNut"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228004-chiseltones/files/2228226/download",
+					"fileName": "ChiselTones-1.7.10-1.0-1.jar"
+				},
+				{
+					"name": "CodeChickenCore",
+					"url": "http://chickenbones.net/Pages/links.html",
+					"authors": ["chicken_bones"],
+					"downloadUrl": "http://chickenbones.net/filedownloader/download.html?fn=Q29kZUNoaWNrZW5Db3JlLzEuNy4xMC0xLjAuNy40Ny9Db2RlQ2hpY2tlbkNvcmUtMS43LjEwLTEuMC43LjQ3LXVuaXZlcnNhbC5qYXI=",
+					"fileName": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar"
+				},
+				{
+					"name": "CoFH Core",
+					"url": "http://minecraft.curseforge.com/mc-mods/69162-cofhcore/files/2246919",
+					"authors": ["Team CoFH"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/69162-cofhcore/files/2246919/download",
+					"fileName": "CoFHCore-[1.7.10]3.0.3-303.jar"
+				},
+				{
+					"name": "Crafting Tweaks",
+					"url": "http://minecraft.curseforge.com/mc-mods/233071-crafting-tweaks/files/2248722",
+					"authors": ["TehNut"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/233071-crafting-tweaks/files/2248722/download",
+					"fileName": "craftingtweaks-mc1.7.10-1.0.17.jar"
+				},
+				{
+					"name": "Chromaticraft",
+					"url": "https://sites.google.com/site/reikasminecraft/latest-downloads",
+					"authors": ["Reika"],
+					"downloadUrl": "http://download1860.mediafire.com/0xmltee647og/jvswl4mad1rug5q/ChromatiCraft+1.7.10+V7e.jar",
+					"fileName": "ChromatiCraft 1.7.10 V7e.jar"
+				},
+				{
+					"name": "Decocraft 2",
+					"url": "http://minecraft.curseforge.com/mc-mods/79616-decocraft2/files/2240127",
+					"authors": ["RazzleberryFox"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/79616-decocraft2/files/2240127/download",
+					"fileName": "craftingtweaks-mc1.7.10-1.0.17.jar"
+				},
+				{
+					"name": "Dense Ores",
+					"url": "http://minecraft.curseforge.com/mc-mods/224942-dense-ores/files/2234692",
+					"authors": ["RWTema"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/224942-dense-ores/files/2234692/download",
+					"fileName": "denseores-1.6.2.jar"
+				},
+				{
+					"name": "DragonAPI",
+					"url": "https://sites.google.com/site/reikasminecraft/latest-downloads",
+					"authors": ["Reika"],
+					"downloadUrl": "http://download31.mediafire.com/x31yqydd1ulg/hwffx9f30nmcamw/DragonAPI+1.7.10+V7f.jar",
+					"fileName": "DragonAPI 1.7.10 V7f.jar"
+				},
+				{
+					"name": "Enchiridion 2",
+					"url": "http://minecraft.curseforge.com/mc-mods/76612-enchiridion",
+					"authors": ["joshiejack"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/76612-enchiridion/files/2242855/download",
+					"fileName": "Enchiridion 2-1.7.10-2.0.2a.jar"
+				},
+				{
+					"name": "EnderCore",
+					"url": "http://minecraft.curseforge.com/mc-mods/231868-endercore",
+					"authors": ["tterag1098, CrazyPants"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/231868-endercore/files/2250277/download",
+					"fileName": "EnderCore-1.7.10-0.0.1.15_alpha.jar"
+				},
+				{
+					"name": "EnderIO",
+					"url": "http://enderio.com",
+					"authors": ["tterag1098, CrazyPants, MatthiasM"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/64578-ender-io/files/2238375/download",
+					"fileName": "EnderIO-1.7.10-2.2.8.381.jar"
+				},
+				{
+					"name": "EnderCore",
+					"url": "http://minecraft.curseforge.com/mc-mods/231868-endercore",
+					"authors": ["tterag1098, CrazyPants"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/231868-endercore/files/2250277/download",
+					"fileName": " EnderCore-1.7.10-0.0.1.15_alpha.jar"
+				},
+				{
+					"name": "Ender Storage",
+					"url": "http://chickenbones.net/Pages/links.html",
+					"authors": ["chickenbones"],
+					"downloadUrl": "http://chickenbones.net/maven/codechicken/EnderStorage/1.7.10-1.4.7.36/EnderStorage-1.7.10-1.4.7.36-universal.jar",
+					"fileName": "EnderStorage-1.7.10-1.4.7.36-universal.jar"
+				},
+				{
+					"name": "Enhanced Portals",
+					"url": "http://minecraft.curseforge.com/mc-mods/225921-enhanced-portals-3",
+					"authors": ["ShadedDimensions"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225921-enhanced-portals-3/files/2242378/download",
+					"fileName": "EnhancedPortals_1.7.10-universal-3.0.12.jar"
+				},
+				{
+					"name": "ExtrabiomesXL",
+					"url": "http://www.curse.com/mc-mods/Minecraft/extrabiomesxl",
+					"authors": ["Annysia", "acmfan", "allaryin", "bspkrs", "crafteverywhere", "Forstride", "Frantisek_Markov", "gwydion0971", "JLBShecky", "JulioCL", "Keuterio", "MrFibre", "panam4ik", "scottkillen", "Vexatos", "Zenth_"],
+					"downloadUrl": "http://addons.curse.cursecdn.com/files/2235/261/extrabiomesxl_1.7.10-3.16.2.jar",
+					"fileName": "extrabiomesxl_1.7.10-3.16.2.jar"
+				},
+				{
+					"name": "Extra Cells2",
+					"url": "http://minecraft.curseforge.com/mc-mods/229218-extracells2",
+					"authors": ["DrummerMC, Nedelosk, Pwnie2012"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/229218-extracells2/files/2242838/download",
+					"fileName": "ExtraCells-1.7.10-2.2.73b129.jar"
+				},
+				{
+					"name": "ExtraTiC",
+					"url": "http://minecraft.curseforge.com/mc-mods/72728-extratic",
+					"authors": ["JeanGlassmaker"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/72728-extratic/files/2239878/download",
+					"fileName": "ExtraTiC-1.7.10-1.4.5.jar"
+				},
+				{
+					"name": "Extra Utilities",
+					"url": "http://minecraft.curseforge.com/mc-mods/225561-extra-utilities",
+					"authors": ["RWTema"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225561-extra-utilities/files/2249174/download",
+					"fileName": "extrautilities-1.2.9.jar"
+				},
+				{
+					"name": "Forbidden Magic",
+					"url": "http://minecraft.curseforge.com/mc-mods/224237-forbidden-magic",
+					"authors": ["SpitefulFox"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/224237-forbidden-magic/files/2244620/download",
+					"fileName": "Forbidden Magic-1.7.10-0.57.jar"
+				},
+				{
+					"name": "Forestry",
+					"url": "http://minecraft.curseforge.com/mc-mods/59751-forestry",
+					"authors": ["SirSengir, CovertJaguar, mezz, MysteriousAges"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/59751-forestry/files/2244777/download",
+					"fileName": "forestry_1.7.10-3.6.2.19.jar"
+				},
+				{
+					"name": "Forge Relocation",
+					"url": "http://minecraft.curseforge.com/mc-mods/232075-forge-relocation",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/232075-forge-relocation/files/2249874/download",
+					"fileName": "ForgeRelocation-0.0.1.4-universal.jar"
+				},
+				{
+					"name": "Gany's End",
+					"url": "http://minecraft.curseforge.com/mc-mods/222084-ganys-end",
+					"authors": ["ganymedes01"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222084-ganys-end/files/2243343/download",
+					"fileName": "Ganys End-1.10.0.jar"
+				},
+				{
+					"name": "Gany's Nether",
+					"url": "http://minecraft.curseforge.com/mc-mods/222302-ganys-nether",
+					"authors": ["ganymedes01"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222302-ganys-nether/files/2237041/download",
+					"fileName": "Ganys Nether-1.8.0.jar"
+				},
+				{
+					"name": "Gany's Surface",
+					"url": "http://minecraft.curseforge.com/mc-mods/222303-ganys-surface",
+					"authors": ["ganymedes01"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222303-ganys-surface/files/2248768/download",
+					"fileName": "Ganys Surface-1.12.2.jar"
+				},
+				{
+					"name": "Garden Stuff",
+					"url": "http://minecraft.curseforge.com/mc-mods/225903-garden-stuff",
+					"authors": ["jaquadro"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225903-garden-stuff/files/2241011/download",
+					"fileName": "GardenStuff-1.7.10-1.6.3.jar"
+				},
+				{
+					"name": "Gendustry",
+					"url": "http://minecraft.curseforge.com/mc-mods/70492-gendustry/files/2250344",
+					"authors": ["bdew"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/70492-gendustry/files/2250344/download",
+					"fileName": "gendustry-1.6.0.113-mc1.7.10.jar"
+				},
+				{
+					"name": "Gravestone",
+					"url": "http://minecraft.curseforge.com/mc-mods/62929-gravestone_mod",
+					"authors": ["NightKosh"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/62929-gravestone_mod/files/2241987/download",
+					"fileName": "GraveStone-2.12.4.jar"
+				},
+				{
+					"name": "Grimoire of Gaia",
+					"url": "http://minecraft.curseforge.com/mc-mods/228948-grimoire-of-gaia",
+					"authors": ["Silentine"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228948-grimoire-of-gaia/files/2249201/download",
+					"fileName": "GrimoireOfGaia3-1.7.10-1.1.2.jar"
+				},
+				{
+					"name": "Guide-API",
+					"url": "http://minecraft.curseforge.com/mc-mods/228832-guide-api/files/2241379",
+					"authors": ["TehNut"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228832-guide-api/files/2241379/download",
+					"fileName": "Guide-API-1.7.10-1.0.1-20.jar"
+				},
+				{
+					"name": "Immersive Engineering",
+					"url": "http://minecraft.curseforge.com/mc-mods/231951-immersive-engineering/files/2250753",
+					"authors": ["BluSunrize, Damien Hazard"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/231951-immersive-engineering/files/2250753/download",
+					"fileName": "ImmersiveEngineering-0.5.1.jar"
+				},
+				{
+					"name": "Forge Multipart",
+					"url": "http://minecraft.curseforge.com/mc-mods/229323-forge-multi-part/files/2242993",
+					"authors": ["chicken_bones"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/229323-forge-multi-part/files/2242993/download",
+					"fileName": "ForgeMultipart-1.7.10-1.2.0.345-universal.jar"
+				},
+				{
+					"name": "Forge Relocation",
+					"url": "http://minecraft.curseforge.com/mc-mods/232075-forge-relocation/files/2249874",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/232075-forge-relocation/files/2249874/download",
+					"fileName": "ForgeRelocation-0.0.1.4-universal.jar"
+				},
+				{
+					"name": "Forge Relocation - FMP Plugin",
+					"url": "http://minecraft.curseforge.com/mc-mods/232076-forge-relocation-fmp-plugin/files/2244822",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/232076-forge-relocation-fmp-plugin/files/2244822/download",
+					"fileName": "ForgeRelocationFMP-0.0.1.2-universal.jar"
+				},
+				{
+					"name": "Malisis Core",
+					"url": "http://minecraft.curseforge.com/mc-mods/223896-malisiscore/files/2250975",
+					"authors": ["Ordinastie"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223896-malisiscore/files/2250975/download",
+					"fileName": "malisiscore-1.7.10-0.12.7.jar"
+				},
+				{
+					"name": "Malisis Doors",
+					"url": "http://minecraft.curseforge.com/mc-mods/223891-malisisdoors/files/2250897",
+					"authors": ["Ordinastie"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223891-malisisdoors/files/2250897/download",
+					"fileName": "malisisdoors-1.7.10-1.9.4.jar"
+				},
+				{
+					"name": "McJtyLib",
+					"url": "http://minecraft.curseforge.com/mc-mods/233105-mcjtylib/files/2250806",
+					"authors": ["McJty"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/233105-mcjtylib/files/2250806/download",
+					"fileName": "mcjtylib-1.2.0.jar"
+				},
+				{
+					"name": "MinefactoryReloaded",
+					"url": "http://minecraft.curseforge.com/mc-mods/66672-minefactory-reloaded/files/2233906",
+					"authors": ["skyboy026"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/66672-minefactory-reloaded/files/2233906/download",
+					"fileName": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar"
+				},
+				{
+					"name": "MrTJPCore",
+					"url": "http://minecraft.curseforge.com/mc-mods/229002-mrtjpcore/files/2249871",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/229002-mrtjpcore/files/2249871/download",
+					"fileName": "MrTJPCore-1.1.0.31-universal.jar"
+				},
+				{
+					"name": "Not Enough Items",
+					"url": "http://chickenbones.net/Pages/links.html",
+					"authors": ["chicken_bones"],
+					"downloadUrl": "http://chickenbones.net/filedownloader/download.html?fn=Tm90RW5vdWdoSXRlbXMvMS43LjEwLTEuMC41LjExMS9Ob3RFbm91Z2hJdGVtcy0xLjcuMTAtMS4wLjUuMTExLXVuaXZlcnNhbC5qYXI=",
+					"fileName": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar"
+				},
+				{
+					"name": "NEI Addons",
+					"url": "http://minecraft.curseforge.com/mc-mods/63352-nei-addons/files/2250423",
+					"authors": ["bdew"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/63352-nei-addons/files/2250423/download",
+					"fileName": "neiaddons-1.12.12.37-mc1.7.10.jar"
+				},
+				{
+					"name": "NEI Integration",
+					"url": "http://minecraft.curseforge.com/mc-mods/225251-nei-integration/files/2250689",
+					"authors": ["Tonius"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225251-nei-integration/files/2250689/download",
+					"fileName": "NEIIntegration-MC1.7.10-1.0.12.jar"
+				},
+				{
+					"name": "Open Computers",
+					"url": "http://minecraft.curseforge.com/mc-mods/223008-opencomputers/files/2250918",
+					"authors": ["Sangar"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223008-opencomputers/files/2250918/download",
+					"fileName": "OpenComputers-MC1.7.10-1.5.15.31-universal.jar"
+				},
+				{
+					"name": "Project Red - Base",
+					"url": "http://minecraft.curseforge.com/mc-mods/228702-project-red-base/files/2249862",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228702-project-red-base/files/2249862/download",
+					"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Base.jar"
+				},
+				{
+					"name": "Project Red - Compat",
+					"url": "http://minecraft.curseforge.com/mc-mods/229050-project-red-compat/files/2249870",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/229050-project-red-compat/files/2249870/download",
+					"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Compat.jar"
+				},
+				{
+					"name": "Project Red - Fabrication",
+					"url": "http://minecraft.curseforge.com/mc-mods/230111-project-red-fabrication/files/2249866",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/230111-project-red-fabrication/files/2249866/download",
+					"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Fabrication.jar"
+				},
+				{
+					"name": "Project Red - Integration",
+					"url": "http://minecraft.curseforge.com/mc-mods/229045-project-red-integration/files/2249865",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/229045-project-red-integration/files/2249865/download",
+					"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Integration.jar"
+				},
+				{
+					"name": "Project Red - Lighting",
+					"url": "http://minecraft.curseforge.com/mc-mods/229046-project-red-lighting/files/2249867",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/229046-project-red-lighting/files/2249867/download",
+					"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Lighting.jar"
+				},
+				{
+					"name": "Project Red - Mechanical",
+					"url": "http://minecraft.curseforge.com/mc-mods/229048-project-red-mechanical/files/2249868",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/229048-project-red-mechanical/files/2249868/download",
+					"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Mechanical.jar"
+				},
+				{
+					"name": "Project Red - World",
+					"url": "http://minecraft.curseforge.com/mc-mods/229049-project-red-world/files/2249869",
+					"authors": ["Mr_TJP"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/229049-project-red-world/files/2249869/download",
+					"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-World.jar"
+				},
+				{
+					"name": "RFTools",
+					"url": "http://minecraft.curseforge.com/mc-mods/224641-rftools/files/2250808",
+					"authors": ["McJty"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/224641-rftools/files/2250808/download",
+					"fileName": "rftools-3.30.jar"
+				},
+				{
+					"name": "Thaumic Energistics",
+					"url": "http://minecraft.curseforge.com/mc-mods/223666-thaumic-energistics/files/2250474",
+					"authors": ["Nividica"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223666-thaumic-energistics/files/2250474/download",
+					"fileName": "thaumicenergistics-0.8.10.10.jar"
+				},
+				{
+					"name": "Voxel Map",
+					"url": "http://minecraft.curseforge.com/mc-mods/225179-voxelmap/files/2250749",
+					"authors": ["Mamiya0taru"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225179-voxelmap/files/2250749/download",
+					"fileName": "mod_voxelMap_1.5.16_for_1.7.10.litemod"
+				},
+				{
+					"name": "What Am I Looking At",
+					"url": "http://minecraft.curseforge.com/mc-mods/73488-waila/files/2230518",
+					"authors": ["ProfMobius"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/73488-waila/files/2230518/download",
+					"fileName": "Waila-1.5.10_1.7.10.jar"
+				},
+				
+			]
+		}
+	]
+}
