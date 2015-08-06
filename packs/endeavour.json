@@ -1,9 +1,9 @@
 {
 	"name": "endeavour",
 	"displayName": "Endeavour",
-	"author": "Temporal Reality Team",
+	"author": "ThePhoenixLodge",
 	"description": "<info needed>",
-	"logoUrl": "https://www.dropbox.com/s/ihxqsifqg6h6ceo/logo.png?dl=0",
+	"logoUrl": "https://www.dropbox.com/s/ihxqsifqg6h6ceo/logo.png?dl=1",
 	"versions": [
 		{
 			"version": "1.0.0",
@@ -571,8 +571,7 @@
 					"authors": ["ProfMobius"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/73488-waila/files/2230518/download",
 					"fileName": "Waila-1.5.10_1.7.10.jar"
-				},
-				
+				}
 			]
 		}
 	]
