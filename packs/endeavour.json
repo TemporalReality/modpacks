@@ -289,8 +289,8 @@
 					"name": "EnderIO",
 					"url": "http://enderio.com",
 					"authors": ["tterag1098, CrazyPants, MatthiasM"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/64578-ender-io/files/2238375/download",
-					"fileName": "EnderIO-1.7.10-2.2.8.381.jar"
+					"downloadUrl": "http://ci.tterrag.com/job/EnderIO/406/artifact/build/libs/EnderIO-1.7.10-2.3.0.406_beta.jar",
+					"fileName": "EnderIO-1.7.10-2.3.0.406_beta.jar"
 				},
 				{
 					"name": "Ender Storage",
@@ -584,7 +584,7 @@
 					"url": "http://chickenbones.net/Pages/links.html",
 					"authors": ["chicken_bones"],
 					"downloadUrl": "http://chickenbones.net/filedownloader/download.html?fn=Tm90RW5vdWdoSXRlbXMvMS43LjEwLTEuMC41LjExMS9Ob3RFbm91Z2hJdGVtcy0xLjcuMTAtMS4wLjUuMTExLXVuaXZlcnNhbC5qYXI=",
-					"fileName": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar"
+					"fileName": "NotEnoughItems-1.7.10-1.0.5.111-universal.jar"
 				},
 				{
 					"name": "NEI Addons",
