@@ -552,20 +552,6 @@
 					"fileName": "mcjtylib-1.2.0.jar"
 				},
 				{
-					"name": "Mekanism",
-					"url": "http://aidancbrady.com/mekanism/",
-					"authors": ["aidancbrady"],
-					"downloadUrl": "ci.indiewikis.com:8080/job/Mekanism/252/artifact/output/Mekanism-1.7.10-8.1.7.252.jar",
-					"fileName": "Mekanism-1.7.10-8.1.7.252.jar"
-				},
-				{
-					"name": "Mekanism Generators",
-					"url": "http://aidancbrady.com/mekanism/",
-					"authors": ["aidancbrady"],
-					"downloadUrl": "ci.indiewikis.com:8080/job/Mekanism/252/artifact/output/MekanismGenerators-1.7.10-8.1.7.252.jar",
-					"fileName": "MekanismGenerators-1.7.10-8.1.7.252.jar"
-				},
-				{
 					"name": "Mine & Blade Battlegear 2",
 					"url": "http://minecraft.curseforge.com/mc-mods/59710-mb-battlegear-2",
 					"authors": ["GotoLink"],
