@@ -293,13 +293,6 @@
 					"fileName": "EnderIO-1.7.10-2.2.8.381.jar"
 				},
 				{
-					"name": "EnderCore",
-					"url": "http://minecraft.curseforge.com/mc-mods/231868-endercore",
-					"authors": ["tterag1098, CrazyPants"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/231868-endercore/files/2250277/download",
-					"fileName": " EnderCore-1.7.10-0.0.1.15_alpha.jar"
-				},
-				{
 					"name": "Ender Storage",
 					"url": "http://chickenbones.net/Pages/links.html",
 					"authors": ["chickenbones"],
