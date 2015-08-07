@@ -10,7 +10,7 @@
 			"changelogUrl": "",
 			"mcVersion": "1.7.10",
 			"forgeVersion": "1.7.10-10.13.4.1448-1.7.10",
-			"overrideUrl": "https://www.dropbox.com/s/65f0qepqohkhe5x/overrides1.0.applesauce.zip?dl=1",
+			"overrideUrl": "https://docs.google.com/uc?authuser=0&id=0B1oPRTXLkxjNNWlRcGhyNHZjSlE&export=download",
 			"mods": [
 				{
 					"name": "Advanced Generators",
@@ -255,7 +255,7 @@
 					"url": "http://minecraft.curseforge.com/mc-mods/79616-decocraft2",
 					"authors": ["RazzleberryFox"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/79616-decocraft2/files/2240127/download",
-					"fileName": "craftingtweaks-mc1.7.10-1.0.17.jar"
+					"fileName": "Decocraft-2.0.2_1.7.10.jar"
 				},
 				{
 					"name": "Dense Ores",
@@ -269,7 +269,7 @@
 					"url": "https://sites.google.com/site/reikasminecraft/latest-downloads",
 					"authors": ["Reika"],
 					"downloadUrl": "http://download31.mediafire.com/x31yqydd1ulg/hwffx9f30nmcamw/DragonAPI+1.7.10+V7f.jar",
-					"fileName": "ChromatiCraft 1.7.10 V7e.jar"
+					"fileName": "DragonAPI 1.7.10 V7f.jar"
 				},
 				{
 					"name": "Enchiridion 2",
@@ -535,7 +535,7 @@
 					"url": "http://minecraft.curseforge.com/mc-mods/229694-matter-overdrive",
 					"authors": ["X_Simeon, shadowfactsmc"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/229694-matter-overdrive/files/2246793/download",
-					"fileName": "MatterOverdrive-1.7.10-0.4.0-RC2.jar.disabled"
+					"fileName": "MatterOverdrive-1.7.10-0.4.0-RC2.jar"
 				},
 				{
 					"name": "McJtyLib",
