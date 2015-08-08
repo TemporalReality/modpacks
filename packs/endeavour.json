@@ -2,7 +2,7 @@
 	"name": "endeavour",
 	"displayName": "Endeavour",
 	"author": "Temporal Reality Team",
-	"description": "Endeavour has a little of everything for everyone. A large focus is placed on having an attractive environment in which to dwell and build, while also having a diverse range of animals and monsters to challenge you. Intermod compatibility is key, and you'll find many instances of small mods designed specifically to increase the interoperability of various mods.",
+	"description": "Endeavour has a little of everything for everyone. A large focus is placed on having an attractive environment in which to dwell and build, while also having a diverse range of animals and monsters to challenge you. Intermod compatibility is key, and you'll find many instances of small mods designed specifically to increase the interoperability of various mods. \n\nThis pack contains Fastcraft, by Player, enabled by default. Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled. For more information about Fastcraft, click on it's name in the modlist below.",
 	"logoUrl": "http://i.imgur.com/vkZb74s.png",
 	"versions": [
 		{
@@ -12,20 +12,6 @@
 			"forgeVersion": "1.7.10-10.13.4.1448-1.7.10",
 			"overrideUrl": "https://docs.google.com/uc?authuser=0&id=0B1oPRTXLkxjNNWlRcGhyNHZjSlE&export=download",
 			"mods": [
-				{
-					"name": "Advanced Generators",
-					"url": "http://minecraft.curseforge.com/mc-mods/223622-advanced-generators",
-					"authors": ["bdew"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223622-advanced-generators/files/2250501/download",
-					"fileName": "generators-0.9.18.107-mc1.7.10.jar"
-				},
-				{
-					"name": "AE2 Stuff",
-					"url": "http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff",
-					"authors": ["bdew"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff/files/2250831/download",
-					"fileName": "ae2stuff-0.5.0.50-mc1.7.10.jar"
-				},
 				{
 					"name": "Agricraft",
 					"url": "http://minecraft.curseforge.com/mc-mods/225635-agricraft",
@@ -181,13 +167,6 @@
 					"fileName": "Botania r1.7-208.jar"
 				},
 				{
-					"name": "bspkrsCore",
-					"url": "http://minecraft.curseforge.com/mc-mods/59218-bspkrscore",
-					"authors": ["bspkrs"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/59218-bspkrscore/files/2227503/download",
-					"fileName": "[1.7.10]bspkrsCore-universal-6.16.jar"
-				},
-				{
 					"name": "Buildcraft",
 					"url": "http://minecraft.curseforge.com/mc-mods/61811-buildcraft",
 					"authors": ["asiekierka and the BC team"],
@@ -335,6 +314,13 @@
 					"fileName": "extrautilities-1.2.9.jar"
 				},
 				{
+					"name": "Fastcraft",
+					"url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820",
+					"authors": ["Player"],
+					"downloadUrl": "http://files.player.to/fastcraft-1.21.jar",
+					"fileName": "fastcraft-1.21.jar"
+				},
+				{
 					"name": "Forbidden Magic",
 					"url": "http://minecraft.curseforge.com/mc-mods/224237-forbidden-magic",
 					"authors": ["SpitefulFox"],
@@ -462,17 +448,10 @@
 				},
 				{
 					"name": "Iron Chests",
-					"url": "http://minecraft.curseforge.com/mc-mods/224989-iron-chest-minecarts",
-					"authors": ["progwml6"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/224989-iron-chest-minecarts/files/2238225/download",
-					"fileName": "ironchest-1.7.10-6.0.62.742-universal.jar"
-				},
-				{
-					"name": "Iron Chest Minecarts",
 					"url": "http://minecraft.curseforge.com/mc-mods/228756-iron-chests",
-					"authors": ["ganymedes01"],
+					"authors": ["progwml6"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228756-iron-chests/files/2230908/download",
-					"fileName": "IronChestMinecarts-1.0.3.jar"
+					"fileName": "ironchest-1.7.10-6.0.62.742-universal.jar"
 				},
 				{
 					"name": "IvToolkit",
@@ -527,8 +506,8 @@
 					"name": "Mantle",
 					"url": "http://minecraft.curseforge.com/mc-mods/74924-mantle",
 					"authors": ["Slime Knights"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/74924-mantle/files/2215235/download",
-					"fileName": "Mantle-1.7.10-0.3.2.jar"
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/74924-mantle/files/2251211/download",
+					"fileName": "Mantle-1.7.10-0.3.2a.jar"
 				},
 				{
 					"name": "Mariculture",
@@ -741,13 +720,6 @@
 					"fileName": " SimplyJetpacks-MC1.7.10-1.5.1.jar"
 				},
 				{
-					"name": "StartingInventory",
-					"url": "http://minecraft.curseforge.com/mc-mods/225569-startinginventory",
-					"authors": ["bspkrs"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225569-startinginventory/files/2218985/download",
-					"fileName": "[1.7.10]StartingInventory-universal-1.7.10.r03.jar"
-				},
-				{
 					"name": "Storage Drawers",
 					"url": "http://minecraft.curseforge.com/mc-mods/223852-storage-drawers",
 					"authors": ["jaquadro"],
@@ -863,8 +835,8 @@
 					"name": "Tinker's Construct",
 					"url": "http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct",
 					"authors": ["Slime Knights"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct/files/2245770/download",
-					"fileName": "TConstruct-1.7.10-1.8.6a.jar"
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct/files/2251212/download",
+					"fileName": "TConstruct-1.7.10-1.8.6b.jar"
 				},
 				{
 					"name": "Tinker's Defense",
