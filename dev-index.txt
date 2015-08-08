@@ -1,1 +1,1 @@
-
+https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/endeavour.json
