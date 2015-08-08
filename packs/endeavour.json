@@ -223,6 +223,11 @@
 					"fileName": "craftingtweaks-mc1.7.10-1.0.17.jar"
 				},
 				{
+					"name": "ChromaticCraft",
+					"url": "https://sites.google.com/site/reikasminecraft/chromaticraft",
+					"authors": ["Reika"]
+				},
+				{
 					"name": "Decocraft 2",
 					"url": "http://minecraft.curseforge.com/mc-mods/79616-decocraft2",
 					"authors": ["RazzleberryFox"],
@@ -235,6 +240,11 @@
 					"authors": ["RWTema"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/224942-dense-ores/files/2234692/download",
 					"fileName": "denseores-1.6.2.jar"
+				},
+				{
+					"name": "DragonAPI",
+					"url": "https://sites.google.com/site/reikasminecraft/dragonapi",
+					"authors": ["Reika"]
 				},
 				{
 					"name": "Enchiridion 2",
@@ -516,6 +526,16 @@
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/233105-mcjtylib/files/2250806/download",
 					"fileName": "mcjtylib-1.2.0.jar"
 				},
+				{
+					"name": "Mekanism",
+					"url": "http://aidancbrady.com/mekanism/",
+					"authors": ["aidancbrady"]
+				},
+				{
+					"name": "Mekanism Tools",
+					"url": "http://aidancbrady.com/mekanism/",
+					"authors": ["aidancbrady"]
+				}
 				{
 					"name": "Mine & Blade Battlegear 2",
 					"url": "http://minecraft.curseforge.com/mc-mods/59710-mb-battlegear-2",
