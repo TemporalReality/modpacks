@@ -10,7 +10,7 @@
 			"changelogUrl": "",
 			"mcVersion": "1.7.10",
 			"forgeVersion": "1.7.10-10.13.4.1448-1.7.10",
-			"overrideUrl": "http://packs.temporal-reality.com/endeavour/1.0.applesauce.zip",
+			"overrideUrl": "https://drive.google.com/uc?export=download&id=0B1oPRTXLkxjNNWlRcGhyNHZjSlE",
 			"mods": [
 				{
 					"name": "Agricraft",
@@ -218,7 +218,9 @@
 				{
 					"name": "ChromaticCraft",
 					"url": "https://sites.google.com/site/reikasminecraft/chromaticraft",
-					"authors": ["Reika"]
+					"authors": ["Reika"],
+					"downloadUrl": "https://drive.google.com/uc?export=download&confirm=oXhZ&id=0B1oPRTXLkxjNaEkzaEFUMW9uQms",
+					"fileName": "ChromatiCraft 1.7.10 V7e.jar"
 				},
 				{
 					"name": "Decocraft 2",
@@ -237,7 +239,9 @@
 				{
 					"name": "DragonAPI",
 					"url": "https://sites.google.com/site/reikasminecraft/dragonapi",
-					"authors": ["Reika"]
+					"authors": ["Reika"],
+					"downloadUrl": "https://drive.google.com/uc?export=download&id=0B1oPRTXLkxjNcGFBRVpRQVZCT1U",
+					"fileName": "DragonAPI 1.7.10 V7f.jar"
 				},
 				{
 					"name": "Enchiridion 2",
