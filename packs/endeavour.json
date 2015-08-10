@@ -6,7 +6,7 @@
 	"logoUrl": "http://i.imgur.com/vkZb74s.png",
 	"versions": [
 		{
-			"version": "1.0.applesauce",
+			"version": "1.0.0",
 			"changelogUrl": "",
 			"mcVersion": "1.7.10",
 			"forgeVersion": "1.7.10-10.13.4.1492-1.7.10",
