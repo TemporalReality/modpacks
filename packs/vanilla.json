@@ -1,1 +1,13 @@
-
+{
+	"name": "vanilla",
+	"displayName": "Vanilla Minecraft",
+	"author": "Mojang AB",
+	"description": "",
+	"logoUrl": "http://i.imgur.com/QxZ8ENY.png",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"mcVersion": "1.7.10"
+		}
+	]
+}
