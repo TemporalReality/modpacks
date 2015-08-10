@@ -118,13 +118,6 @@
 					"fileName": "binnie-mods-2.0-pre14.jar"
 				},
 				{
-					"name": "BiomeTweaker",
-					"url": "http://minecraft.curseforge.com/mc-mods/228895-biometweaker",
-					"authors": ["superckl"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228895-biometweaker/files/2244910/download",
-					"fileName": "BiomeTweaker-1.7.10-1.2.128.jar"
-				},
-				{
 					"name": "Blood Arsenal",
 					"url": "http://minecraft.curseforge.com/mc-mods/228823-blood-magic-addon-blood-arsenal",
 					"authors": ["Arcaratus"],
