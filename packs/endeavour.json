@@ -52,7 +52,8 @@
 					"url": "http://minecraft.curseforge.com/mc-mods/231659-aquatweaks",
 					"authors": ["BluSunrize"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/231659-aquatweaks/files/2243845/download",
-					"fileName": "AquaTweaks-1.7.10-1.0.jar"
+					"fileName": "AquaTweaks-1.7.10-1.0.jar",
+					"clientSide": true
 				},
 				{
 					"name": "Automagy",
@@ -409,7 +410,8 @@
 					"url": "http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks",
 					"authors": ["Kobata"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks/files/2210792/download",
-					"fileName": "InventoryTweaks-1.59-dev-152.jar"
+					"fileName": "InventoryTweaks-1.59-dev-152.jar",
+					"clientSide": true
 				},
 				{
 					"name": "Iron Chests",
@@ -437,7 +439,8 @@
 					"url": "http://www.liteloader.com/",
 					"authors": ["Mumfrey"],
 					"downloadUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10_04.jar",
-					"fileName": "liteloader-1.7.10_04.jar"
+					"fileName": "liteloader-1.7.10_04.jar",
+					"clientSide": true
 				},
 				{
 					"name": "Logistics Pipes",
@@ -559,7 +562,8 @@
 					"url": "http://minecraft.curseforge.com/mc-mods/225251-nei-integration",
 					"authors": ["Tonius"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225251-nei-integration/files/2250689/download",
-					"fileName": "NEIIntegration-MC1.7.10-1.0.12.jar"
+					"fileName": "NEIIntegration-MC1.7.10-1.0.12.jar",
+					"clientSide": true
 				},
 				{
 					"name": "OpenBlocks",
@@ -727,7 +731,8 @@
 					"url": "http://minecraft.curseforge.com/mc-mods/227328-thaumcraft-node-tracker",
 					"authors": ["Dynovan"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/227328-thaumcraft-node-tracker/files/2247224/download",
-					"fileName": "tcnodetracker-1.7.10-1.1.2.jar"
+					"fileName": "tcnodetracker-1.7.10-1.1.2.jar",
+					"clientSide": true
 				},
 				{
 					"name": "Thaumcraft",
@@ -804,7 +809,8 @@
 					"url": "http://minecraft.curseforge.com/mc-mods/76845-tic-tooltips",
 					"authors": ["squeek502"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/76845-tic-tooltips/files/2246472/download",
-					"fileName": "TiCTooltips-mc1.7.10-1.2.5.jar"
+					"fileName": "TiCTooltips-mc1.7.10-1.2.5.jar",
+					"clientSide": true
 				},
 				{
 					"name": "Tinker's Construct",
@@ -846,7 +852,8 @@
 					"url": "http://minecraft.curseforge.com/mc-mods/225179-voxelmap",
 					"authors": ["Mamiya0taru"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/225179-voxelmap/files/2250749/download",
-					"fileName": "mod_voxelMap_1.5.16_for_1.7.10.litemod"
+					"fileName": "mod_voxelMap_1.5.16_for_1.7.10.litemod",
+					"clientSide": true
 				},
 				{
 					"name": "What Am I Looking At",
@@ -860,14 +867,16 @@
 					"url": "http://minecraft.curseforge.com/mc-mods/79287-waila-harvestability",
 					"authors": ["squeek502"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/79287-waila-harvestability/files/2226443/download",
-					"fileName": " WAILAPlugins-MC1.7.10-0.1.0-16.jar"
+					"fileName": " WAILAPlugins-MC1.7.10-0.1.0-16.jar",
+					"clientSide": true
 				},
 				{
 					"name": "WAILA Plugins",
 					"url": "http://minecraft.curseforge.com/mc-mods/226119-waila-plugins",
 					"authors": ["tterag1098"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/226119-waila-plugins/files/2245046/download",
-					"fileName": "WailaHarvestability-mc1.7.x-1.1.2.jar"
+					"fileName": "WailaHarvestability-mc1.7.x-1.1.2.jar",
+					"clientSide": true
 				},
 				{
 					"name": "Witchery",
