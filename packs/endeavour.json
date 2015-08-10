@@ -205,7 +205,7 @@
 					"name": "ChromatiCraft",
 					"url": "https://sites.google.com/site/reikasminecraft/chromaticraft",
 					"authors": ["Reika"],
-					"downloadUrl": "http://packs.temporal-reality.com/endeavour/ChromatiCraft-1.7.10-V7e.jar",
+					"downloadUrl": "https://www.dropbox.com/s/rxr6l0wbyiuyxsk/ChromatiCraft%201.7.10%20V7e.jar?dl=1",
 					"fileName": "ChromatiCraft 1.7.10 V7e.jar"
 				},
 				{
@@ -331,22 +331,22 @@
 					"name": "Gany's End",
 					"url": "http://minecraft.curseforge.com/mc-mods/222084-ganys-end",
 					"authors": ["ganymedes01"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222084-ganys-end/files/2243343/download",
-					"fileName": "Ganys End-1.10.0.jar"
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222084-ganys-end/files/2251356/download",
+					"fileName": "Ganys End-1.10.1.jar"
 				},
 				{
 					"name": "Gany's Nether",
 					"url": "http://minecraft.curseforge.com/mc-mods/222302-ganys-nether",
 					"authors": ["ganymedes01"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222302-ganys-nether/files/2237041/download",
-					"fileName": "Ganys Nether-1.8.0.jar"
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222302-ganys-nether/files/2251359/download",
+					"fileName": "Ganys Nether-1.8.1.jar"
 				},
 				{
 					"name": "Gany's Surface",
 					"url": "http://minecraft.curseforge.com/mc-mods/222303-ganys-surface",
 					"authors": ["ganymedes01"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222303-ganys-surface/files/2248768/download",
-					"fileName": "Ganys Surface-1.12.2.jar"
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/222303-ganys-surface/files/2251364/download",
+					"fileName": "Ganys Surface-1.12.3.jar"
 				},
 				{
 					"name": "Garden Stuff",
@@ -670,8 +670,8 @@
 					"name": "Railcraft",
 					"url": "http://www.railcraft.info/",
 					"authors": ["CovertJaguar"],
-					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/51195-railcraft/files/2235453/download",
-					"fileName": "Railcraft_1.7.10-9.6.1.0.jar"
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/51195-railcraft/files/2251559/download",
+					"fileName": "Railcraft_1.7.10-9.7.0.0.jar"
 				},
 				{
 					"name": "Refined Relocation",
