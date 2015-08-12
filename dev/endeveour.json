@@ -196,6 +196,13 @@
 					"fileName": "ChromatiCraft 1.7.10 V7e.jar"
 				},
 				{
+					"name": "CreativeCore",
+					"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2408667-creativecore-v1-2-2-required-by-randomadditions",
+					"authors": ["CreativeMD"],
+					"downloadUrl": "https://www.dropbox.com/s/ydx5ti7wd1ymo2b/CreativeCore%20v1.2.2%20mc1.7.10.jar?dl=1",
+					"fileName": "CreativeCore v1.2.2.jar"
+				},
+				{
 					"name": "Decocraft 2",
 					"url": "http://minecraft.curseforge.com/mc-mods/79616-decocraft2",
 					"authors": ["RazzleberryFox"],
