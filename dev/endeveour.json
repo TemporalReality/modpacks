@@ -196,13 +196,6 @@
 					"fileName": "ChromatiCraft 1.7.10 V7e.jar"
 				},
 				{
-					"name": "CreativeCore",
-					"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2408667-creativecore-v1-2-2-required-by-randomadditions",
-					"authors": ["CreativeMD"],
-					"downloadUrl": "https://www.dropbox.com/s/ydx5ti7wd1ymo2b/CreativeCore%20v1.2.2%20mc1.7.10.jar?dl=1",
-					"fileName": "CreativeCore v1.2.2.jar"
-				},
-				{
 					"name": "Decocraft 2",
 					"url": "http://minecraft.curseforge.com/mc-mods/79616-decocraft2",
 					"authors": ["RazzleberryFox"],
@@ -1320,13 +1313,6 @@
 					"authors": ["progwml6"],
 					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/228756-iron-chests/files/2230908/download",
 					"fileName": "ironchest-1.7.10-6.0.62.742-universal.jar"
-				},
-				{
-				  "name": "ItemPhysics",
-				  "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic-1-1-5-more-realtistic-items-stone",
-				  "authors": ["CreativeMD"],
-				  "downloadUrl": "https://www.dropbox.com/s/5f8l2dlaxbrbc0k/ItemPhysic%20Full%201.1.5%20mc1.7.10.jar?dl=1",
-				  "fileName": "ItemPhysic Full 1.1.5 mc1.7.10.jar"
 				},
 				{
 					"name": "IvToolkit",
