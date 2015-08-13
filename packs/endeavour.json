@@ -1425,6 +1425,13 @@
 					"fileName": "MineTweaker3-1.7.10-3.0.9C.jar"
 				},
 				{
+					"name": "Morpheus",
+					"url": "http://minecraft.curseforge.com/mc-mods/69118-morpheus",
+					"authors": ["quetzi"],
+					"downloadUrl": "http://minecraft.curseforge.com/mc-mods/69118-morpheus/files/2251029/download",
+					"fileName": "Morpheus-1.7.10-1.6.10.jar"
+				},
+				{
 					"name": "MrTJPCore",
 					"url": "http://minecraft.curseforge.com/mc-mods/229002-mrtjpcore",
 					"authors": ["Mr_TJP"],
