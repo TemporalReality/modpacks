@@ -4,6 +4,7 @@
 	"author": "qazplm601",
 	"description": "An unspecialized pack, which includes a wide variety of mods for you to enjoy.\n\nThis pack contains Fastcraft, by Player, enabled by default. Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled.",
 	"logoUrl": "http://i.imgur.com/L9zXP7u.png",
+	"beta": "true",
 	"versions": [
 		{
 			"version": "1.0.0",
