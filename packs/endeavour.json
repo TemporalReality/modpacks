@@ -4,6 +4,7 @@
 	"author": "Temporal Reality Team",
 	"description": "Endeavour has a little of everything for everyone. A large focus is placed on having an attractive environment in which to dwell and build, while also having a diverse range of animals and monsters to challenge you. Intermod compatibility is key, and you'll find many instances of small mods designed specifically to increase the interoperability of various mods. \n\nThis pack contains Fastcraft, by Player, enabled by default. Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled. For more information about Fastcraft, click on it's name in the modlist below.",
 	"logoUrl": "http://i.imgur.com/vkZb74s.png",
+	"beta": "true",
 	"versions": [
 		{
 			"version": "1.0.0",
