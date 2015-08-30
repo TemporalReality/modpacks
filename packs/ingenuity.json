@@ -444,6 +444,15 @@
                     "downloadUrl": "http://minecraft.curseforge.com/mc-mods/76845-tic-tooltips/files/2246472/download",
                     "fileName": "tictooltips.jar"
                 }
+                {
+                    "name": "Forge Multipart",
+                    "url": "http://files.minecraftforge.net/ForgeMultipart/",
+                    "authors": [
+                        "ChickenBones"
+                    ],
+                    "downloadUrl": "http://files.minecraftforge.net/maven/codechicken/ForgeMultipart/1.7.10-1.2.0.345/ForgeMultipart-1.7.10-1.2.0.345-universal.jar",
+                    "fileName": "forgemultipart.jar"
+                }
             ]
         }
     ]
