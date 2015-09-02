@@ -1,0 +1,34 @@
+{
+    "name": "ingenuity",
+    "displayName": "Ingenuity",
+    "author": "jordsta95",
+    "description": "Where's all the mods I am used to? \n Maybe you will need to use some ingenuity to do what you are so used to doing!\n This pack contains a variety of mods which are not commonplace in mod packs, while keeping some 'fan favourites'",
+    "logoUrl": "http://i.imgur.com/JqK2WGW.png",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "changelogUrl": "",
+            "mcVersion": "1.7.10",
+            "forgeVersion": "1.7.10-10.13.4.1492-1.7.10",
+            "overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqMVZPdkVmZkVvR1E",
+            "mods": [
+                {
+                    "name": "Waila",
+                    "url": "http://www.curse.com/mc-mods/Minecraft/waila",
+                    "authors": [
+                        "ProfMobius"
+                    ],
+                    "downloadUrl": "http://addons.curse.cursecdn.com/files/2230/518/Waila-1.5.10_1.7.10.jar"
+                },
+                {
+                    "name": "Hydraulicraft",
+                    "url": "http://hydraulicraft.eu/",
+                    "authors": [
+                        "K4Unl"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223036-hydraulicraft/files/2252422/download"
+                }
+            ]
+        }
+    ]
+}
