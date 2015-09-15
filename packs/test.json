@@ -5,6 +5,7 @@
     "description": "Where's all the mods I am used to? \n Maybe you will need to use some ingenuity to do what you are so used to doing!\n This pack contains a variety of mods which are not commonplace in mod packs, while keeping some 'fan favourites'",
     "logoUrl": "http://i.imgur.com/JqK2WGW.png",
     "official": true,
+    "listed": false,
     "versions": [
         {
             "version": "1.0.0",
