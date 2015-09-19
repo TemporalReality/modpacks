@@ -6,6 +6,9 @@
     "logoUrl": "http://i.imgur.com/JqK2WGW.png",
     "official": true,
     "listed": false,
+    "labels": [
+        "3rdParty"
+    ],
     "versions": [
         {
             "version": "1.0.0",
