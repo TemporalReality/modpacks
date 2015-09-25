@@ -5,12 +5,12 @@
     "description": "Where's all the mods I am used to? \n Maybe you will need to use some ingenuity to do what you are so used to doing!\n This pack contains a variety of mods which are not commonplace in mod packs, while keeping some 'fan favourites'",
     "logoUrl": "http://i.imgur.com/JqK2WGW.png",
     "versions": [
-                {
-            "version": "1.0.2",
-            "changelogUrl": "http://pastebin.com/raw.php?i=Lut9QBdb",
+        {
+            "version": "1.0.0",
+            "changelogUrl": "",
             "mcVersion": "1.7.10",
             "forgeVersion": "1.7.10-10.13.4.1492-1.7.10",
-            "overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqbFdRT0ZqYzh0YlE",
+            "overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqR2lFYVZMdHd3RTg",
             "mods": [
                 {
                     "name": "Waila",
@@ -95,12 +95,12 @@
                 },
                 {
                     "name": "Applied Energistics 2",
-                    "url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2259134/download",
+                    "url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2",
                     "authors": [
                         "AlgorithmX2, akarso, Cisien, fireball1725, thatsIch"
                     ],
                     "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2253658/download",
-                    "fileName": "appliedenergistics2-rv3-alpha-7.jar"
+                    "fileName": "AE2.jar"
                 },
                 {
                     "name": "Botania",
@@ -108,8 +108,8 @@
                     "authors": [
                         "Vazkii"
                     ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225643-botania/files/2259244/download",
-                    "fileName": "Botania r1.7-223.jar"
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225643-botania/files/2255167/download",
+                    "fileName": "botania.jar"
                 },
                 {
                     "name": "Baubles",
@@ -189,8 +189,8 @@
                     "authors": [
                         "ANIMENIAC7"
                     ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/226210-enhanced-inventories/files/2256249/download",
-                    "fileName": "EnhancedInventories-1.7.10-1.1.6.jar"
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/226210-enhanced-inventories/files/2254053/download",
+                    "fileName": "enhancedinventories.jar"
                 },
                 {
                     "name": "YuutoLib",
@@ -387,8 +387,8 @@
                     "authors": [
                         "Minemaarten"
                     ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/files/2256322/download",
-                    "fileName": "PneumaticCraft-1.7.10-1.11.6-126-universal.jar"
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/files/2253878/download",
+                    "fileName": "pneumaticcraft.jar"
                 },
                 {
                     "name": "Railcraft",
@@ -407,15 +407,6 @@
                     ],
                     "downloadUrl": "http://minecraft.curseforge.com/mc-mods/227065-runic-dungeons/files/2245946/download",
                     "fileName": "runicdungeons.jar"
-                },
-                {
-                    "name": "StorageSilo",
-                    "url": "http://minecraft.curseforge.com/mc-mods/235035-storagesilo",
-                    "authors": [
-                        "WalterWeight"
-                    ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/235035-storagesilo/files/2252568/download",
-                    "fileName": "StorageSilo-1.0.1.jar"
                 },
                 {
                     "name": "Tinker's Construct",
@@ -464,7 +455,7 @@
                 }
             ]
         },
-                {
+                    {
             "version": "1.0.1",
             "changelogUrl": "http://pastebin.com/raw.php?i=Lut9QBdb",
             "mcVersion": "1.7.10",
@@ -923,12 +914,12 @@
                 }
             ]
         },
-        {
-            "version": "1.0.0",
-            "changelogUrl": "",
+           {
+            "version": "1.0.2",
+            "changelogUrl": "http://pastebin.com/raw.php?i=Lut9QBdb",
             "mcVersion": "1.7.10",
             "forgeVersion": "1.7.10-10.13.4.1492-1.7.10",
-            "overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqR2lFYVZMdHd3RTg",
+            "overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqbFdRT0ZqYzh0YlE",
             "mods": [
                 {
                     "name": "Waila",
@@ -1013,12 +1004,12 @@
                 },
                 {
                     "name": "Applied Energistics 2",
-                    "url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2",
+                    "url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2259134/download",
                     "authors": [
                         "AlgorithmX2, akarso, Cisien, fireball1725, thatsIch"
                     ],
                     "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2253658/download",
-                    "fileName": "AE2.jar"
+                    "fileName": "appliedenergistics2-rv3-alpha-7.jar"
                 },
                 {
                     "name": "Botania",
@@ -1026,8 +1017,8 @@
                     "authors": [
                         "Vazkii"
                     ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225643-botania/files/2255167/download",
-                    "fileName": "botania.jar"
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225643-botania/files/2259244/download",
+                    "fileName": "Botania r1.7-223.jar"
                 },
                 {
                     "name": "Baubles",
@@ -1107,8 +1098,8 @@
                     "authors": [
                         "ANIMENIAC7"
                     ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/226210-enhanced-inventories/files/2254053/download",
-                    "fileName": "enhancedinventories.jar"
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/226210-enhanced-inventories/files/2256249/download",
+                    "fileName": "EnhancedInventories-1.7.10-1.1.6.jar"
                 },
                 {
                     "name": "YuutoLib",
@@ -1305,8 +1296,8 @@
                     "authors": [
                         "Minemaarten"
                     ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/files/2253878/download",
-                    "fileName": "pneumaticcraft.jar"
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/files/2256322/download",
+                    "fileName": "PneumaticCraft-1.7.10-1.11.6-126-universal.jar"
                 },
                 {
                     "name": "Railcraft",
@@ -1325,6 +1316,15 @@
                     ],
                     "downloadUrl": "http://minecraft.curseforge.com/mc-mods/227065-runic-dungeons/files/2245946/download",
                     "fileName": "runicdungeons.jar"
+                },
+                {
+                    "name": "StorageSilo",
+                    "url": "http://minecraft.curseforge.com/mc-mods/235035-storagesilo",
+                    "authors": [
+                        "WalterWeight"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/235035-storagesilo/files/2252568/download",
+                    "fileName": "StorageSilo-1.0.1.jar"
                 },
                 {
                     "name": "Tinker's Construct",
