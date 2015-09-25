@@ -5,12 +5,12 @@
     "description": "Where's all the mods I am used to? \n Maybe you will need to use some ingenuity to do what you are so used to doing!\n This pack contains a variety of mods which are not commonplace in mod packs, while keeping some 'fan favourites'",
     "logoUrl": "http://i.imgur.com/JqK2WGW.png",
     "versions": [
-        {
-            "version": "1.0.0",
-            "changelogUrl": "",
+                {
+            "version": "1.0.2",
+            "changelogUrl": "http://pastebin.com/raw.php?i=Lut9QBdb",
             "mcVersion": "1.7.10",
             "forgeVersion": "1.7.10-10.13.4.1492-1.7.10",
-            "overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqR2lFYVZMdHd3RTg",
+            "overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqbFdRT0ZqYzh0YlE",
             "mods": [
                 {
                     "name": "Waila",
@@ -95,12 +95,12 @@
                 },
                 {
                     "name": "Applied Energistics 2",
-                    "url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2",
+                    "url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2259134/download",
                     "authors": [
                         "AlgorithmX2, akarso, Cisien, fireball1725, thatsIch"
                     ],
                     "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2253658/download",
-                    "fileName": "AE2.jar"
+                    "fileName": "appliedenergistics2-rv3-alpha-7.jar"
                 },
                 {
                     "name": "Botania",
@@ -108,8 +108,8 @@
                     "authors": [
                         "Vazkii"
                     ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225643-botania/files/2255167/download",
-                    "fileName": "botania.jar"
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225643-botania/files/2259244/download",
+                    "fileName": "Botania r1.7-223.jar"
                 },
                 {
                     "name": "Baubles",
@@ -189,8 +189,8 @@
                     "authors": [
                         "ANIMENIAC7"
                     ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/226210-enhanced-inventories/files/2254053/download",
-                    "fileName": "enhancedinventories.jar"
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/226210-enhanced-inventories/files/2256249/download",
+                    "fileName": "EnhancedInventories-1.7.10-1.1.6.jar"
                 },
                 {
                     "name": "YuutoLib",
@@ -387,8 +387,8 @@
                     "authors": [
                         "Minemaarten"
                     ],
-                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/files/2253878/download",
-                    "fileName": "pneumaticcraft.jar"
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/files/2256322/download",
+                    "fileName": "PneumaticCraft-1.7.10-1.11.6-126-universal.jar"
                 },
                 {
                     "name": "Railcraft",
@@ -407,6 +407,15 @@
                     ],
                     "downloadUrl": "http://minecraft.curseforge.com/mc-mods/227065-runic-dungeons/files/2245946/download",
                     "fileName": "runicdungeons.jar"
+                },
+                {
+                    "name": "StorageSilo",
+                    "url": "http://minecraft.curseforge.com/mc-mods/235035-storagesilo",
+                    "authors": [
+                        "WalterWeight"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/235035-storagesilo/files/2252568/download",
+                    "fileName": "StorageSilo-1.0.1.jar"
                 },
                 {
                     "name": "Tinker's Construct",
@@ -455,7 +464,7 @@
                 }
             ]
         },
-        {
+                {
             "version": "1.0.1",
             "changelogUrl": "http://pastebin.com/raw.php?i=Lut9QBdb",
             "mcVersion": "1.7.10",
@@ -866,6 +875,456 @@
                     ],
                     "downloadUrl": "http://minecraft.curseforge.com/mc-mods/235035-storagesilo/files/2252568/download",
                     "fileName": "StorageSilo-1.0.1.jar"
+                },
+                {
+                    "name": "Tinker's Construct",
+                    "url": "http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct",
+                    "authors": [
+                        "mDiyo, boni"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct/files/2253057/download",
+                    "fileName": "ticon.jar"
+                },
+                {
+                    "name": "Thermal Foundation",
+                    "url": "http://minecraft.curseforge.com/mc-mods/222880-thermal-foundation",
+                    "authors": [
+                        "TeamCoFH, KingLemming, skyboy026, ZeldoKavira"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/222880-thermal-foundation/files/2246921/download",
+                    "fileName": "Tfoundation.jar"
+                },
+                {
+                    "name": "The Erebus",
+                    "url": "http://minecraft.curseforge.com/mc-mods/220698-the-erebus",
+                    "authors": [
+                        "Dylan4ever, ganymedes01, Vadis365"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/220698-the-erebus/files/2233843/download",
+                    "fileName": "erebus.jar"
+                },
+                {
+                    "name": "TiC Tooltips",
+                    "url": "http://minecraft.curseforge.com/mc-mods/76845-tic-tooltips",
+                    "authors": [
+                        "squuek502"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/76845-tic-tooltips/files/2246472/download",
+                    "fileName": "tictooltips.jar"
+                },
+                {
+                    "name": "Forge Multipart",
+                    "url": "http://files.minecraftforge.net/ForgeMultipart/",
+                    "authors": [
+                        "ChickenBones"
+                    ],
+                    "downloadUrl": "http://files.minecraftforge.net/maven/codechicken/ForgeMultipart/1.7.10-1.2.0.345/ForgeMultipart-1.7.10-1.2.0.345-universal.jar",
+                    "fileName": "forgemultipart.jar"
+                }
+            ]
+        },
+        {
+            "version": "1.0.0",
+            "changelogUrl": "",
+            "mcVersion": "1.7.10",
+            "forgeVersion": "1.7.10-10.13.4.1492-1.7.10",
+            "overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqR2lFYVZMdHd3RTg",
+            "mods": [
+                {
+                    "name": "Waila",
+                    "url": "http://www.curse.com/mc-mods/Minecraft/waila",
+                    "authors": [
+                        "ProfMobius"
+                    ],
+                    "downloadUrl": "http://addons.curse.cursecdn.com/files/2230/518/Waila-1.5.10_1.7.10.jar",
+                    "fileName": "waila.jar"
+                },
+                {
+                    "name": "Hydraulicraft",
+                    "url": "http://hydraulicraft.eu/",
+                    "authors": [
+                        "K4Unl"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223036-hydraulicraft/files/2252422/download",
+                    "fileName": "hydra.jar"
+                },
+                {
+                    "name": "K4Lib",
+                    "url": "http://hydraulicraft.eu/",
+                    "authors": [
+                        "K4Unl"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224740-k4lib/files/2252423/download",
+                    "fileName": "k4lib.jar"
+                },
+                {
+                    "name": "Applecore",
+                    "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore",
+                    "authors": [
+                        "squeek502"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+                    "fileName": "applecore.jar"
+                },
+                {
+                    "name": "Aether II",
+                    "url": "http://minecraft.curseforge.com/linkout?remoteUrl=http%253a%252f%252faetherii.com%252f",
+                    "authors": [
+                        "GildedGames, 115kino, Brenwwe, Collin1971, HEmile,kingbdogz, MrBrandonPotts, xjonL"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223796-the-aether-ii/files/2238703/download",
+                    "fileName": "aetherII.jar"
+                },
+                {
+                    "name": "Gilded Games Util",
+                    "url": "http://minecraft.curseforge.com/linkout?remoteUrl=http%253a%252f%252faetherii.com%252f",
+                    "authors": [
+                        "GildedGames, 115kino, Brenwwe, Collin1971, HEmile,kingbdogz, MrBrandonPotts, xjonL"
+                    ],
+                    "downloadUrl": "http://files.aetherii.com/files/versions/1.7.10-1.4/gilded-games-util.jar",
+                    "fileName": "gildedgames.jar"
+                },
+                {
+                    "name": "Inventory Tweaks",
+                    "url": "http://www.curse.com/mc-mods/Minecraft/223094-inventory-tweaks",
+                    "authors": [
+                        "Kobata"
+                    ],
+                    "downloadUrl": "http://addons.curse.cursecdn.com/files/2210/792/InventoryTweaks-1.59-dev-152.jar",
+                    "fileName": "InventoryTweaks.jar"
+                },
+                {
+                    "name": "CodeChickenCore",
+                    "url": "http://www.curse.com/mc-mods/Minecraft/222213-codechickencore",
+                    "authors": [
+                        "chicken_bones"
+                    ],
+                    "downloadUrl": "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.7.47/CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+                    "fileName": "CCC.jar"
+                },
+                {
+                    "name": "NotEnoughItems",
+                    "url": "http://www.curse.com/mc-mods/Minecraft/222211-notenoughitems",
+                    "authors": [
+                        "chicken_bones"
+                    ],
+                    "downloadUrl": "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.5.111/NotEnoughItems-1.7.10-1.0.5.111-universal.jar",
+                    "fileName": "NEI.jar"
+                },
+                {
+                    "name": "Applied Energistics 2",
+                    "url": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2",
+                    "authors": [
+                        "AlgorithmX2, akarso, Cisien, fireball1725, thatsIch"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2/files/2253658/download",
+                    "fileName": "AE2.jar"
+                },
+                {
+                    "name": "Botania",
+                    "url": "http://botaniamod.net",
+                    "authors": [
+                        "Vazkii"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225643-botania/files/2255167/download",
+                    "fileName": "botania.jar"
+                },
+                {
+                    "name": "Baubles",
+                    "url": "http://minecraft.curseforge.com/mc-mods/227083-baubles",
+                    "authors": [
+                        "Azanor"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/227083-baubles/files/2224857/download",
+                    "fileName": "baubles.jar"
+                },
+                {
+                    "name": "Blue Power",
+                    "url": "http://minecraft.curseforge.com/mc-mods/223099-blue-power",
+                    "authors": [
+                        "Quetzi, amadornes, K4Unl, MineMaarten, RavenWhitefang"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223099-blue-power/files/2251307/download",
+                    "fileName": "bluepower.jar"
+                },
+                {
+                    "name": "Qmunitylib",
+                    "url": "http://minecraft.curseforge.com/mc-mods/224785-qmunitylib",
+                    "authors": [
+                        "Quetzi, amadornes, K4Unl, MineMaarten"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224785-qmunitylib/files/2241123/download",
+                    "fileName": "qmunitylib.jar"
+                },
+                {
+                    "name": "Carnivora",
+                    "url": "http://minecraft.curseforge.com/mc-mods/230522-carnivora",
+                    "authors": [
+                        "allaryin, Zenth"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/230522-carnivora/files/2240854/download",
+                    "fileName": "carnivora.jar"
+                },
+                {
+                    "name": "Carpenter's Blocks",
+                    "url": "http://minecraft.curseforge.com/mc-mods/228932-carpenters-blocks",
+                    "authors": [
+                        "Syntaxial, Mineshopper"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/228932-carpenters-blocks/files/2233617/download",
+                    "fileName": "carpentersblocks.jar"
+                },
+                {
+                    "name": "Chisel 2",
+                    "url": "http://minecraft.curseforge.com/mc-mods/225236-chisel-2",
+                    "authors": [
+                        "TheCricket26, Drullkus"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225236-chisel-2/files/2253599/download",
+                    "fileName": "chisel2.jar"
+                },
+                {
+                    "name": "CoFH Core",
+                    "url": "http://minecraft.curseforge.com/mc-mods/69162-cofhcore",
+                    "authors": [
+                        "TeamCoFH, KingLemming, skyboy026, ZeldoKavira"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/69162-cofhcore/files/2249302/download",
+                    "fileName": "cofhcore.jar"
+                },
+                {
+                    "name": "Ender Pearl Ore",
+                    "url": "http://minecraft.curseforge.com/mc-mods/229078-ender-pearl-ore",
+                    "authors": [
+                        "KakesRevenge"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/229078-ender-pearl-ore/files/2232201/download",
+                    "fileName": "enderpearlore.jar"
+                },
+                {
+                    "name": "Enhanced Inventories",
+                    "url": "http://minecraft.curseforge.com/mc-mods/226210-enhanced-inventories",
+                    "authors": [
+                        "ANIMENIAC7"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/226210-enhanced-inventories/files/2254053/download",
+                    "fileName": "enhancedinventories.jar"
+                },
+                {
+                    "name": "YuutoLib",
+                    "url": "http://minecraft.curseforge.com/mc-mods/234935-yuutolib",
+                    "authors": [
+                        "ANIMENIAC7"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/234935-yuutolib/files/2254051/download",
+                    "fileName": "yuutolib.jar"
+                },
+                {
+                    "name": "Extra Utilities",
+                    "url": "http://minecraft.curseforge.com/mc-mods/225561-extra-utilities",
+                    "authors": [
+                        "RWTema"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225561-extra-utilities/files/2254261/download",
+                    "fileName": "exu.jar"
+                },
+                {
+                    "name": "Highlands",
+                    "url": "http://minecraft.curseforge.com/mc-mods/221226-highlands",
+                    "authors": [
+                        "fabricator77"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/221226-highlands/files/2227924/download",
+                    "fileName": "highlands.jar"
+                },
+                {
+                    "name": "In-Game Wiki Mod",
+                    "url": "http://minecraft.curseforge.com/mc-mods/223815-in-game-wiki-mod",
+                    "authors": [
+                        "MineMaarten"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223815-in-game-wiki-mod/files/2249847/download",
+                    "fileName": "IGW.jar"
+                },
+                {
+                    "name": "INpureCore",
+                    "url": "http://minecraft.curseforge.com/mc-mods/223792-inpurecore",
+                    "authors": [
+                        "INpureProjects, Valaelea"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223792-inpurecore/files/2238507/download",
+                    "fileName": "inpurecore.jar"
+                },
+                {
+                    "name": "Interdiction PIllar",
+                    "url": "http://minecraft.curseforge.com/mc-mods/229385-interdiction-pillar/",
+                    "authors": [
+                        "momnop"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/229385-interdiction-pillar/files/2243406",
+                    "fileName": "interdictionpillar.jar"
+                },
+                {
+                    "name": "JABBA",
+                    "url": "http://minecraft.curseforge.com/mc-mods/73510-jabba",
+                    "authors": [
+                        "ProfMobius, taelnia"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/73510-jabba/files/2229724/download",
+                    "fileName": "JABBA.jar"
+                },
+                {
+                    "name": "JourneyMap",
+                    "url": "http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274",
+                    "authors": [
+                        "techbrew"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2245168/download",
+                    "fileName": "journeymap.jar"
+                },
+                {
+                    "name": "Laser Creeper Robot Dino Riders From Space",
+                    "url": "http://minecraft.curseforge.com/mc-mods/229086-laser-creeper-robot-dino-riders-from-space",
+                    "authors": [
+                        "MagicMonkey23"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/229086-laser-creeper-robot-dino-riders-from-space/files/2239637/download",
+                    "fileName": "lasercreepers.jar"
+                },
+                {
+                    "name": "Mantle",
+                    "url": "http://minecraft.curseforge.com/mc-mods/74924-mantle",
+                    "authors": [
+                        "mDiyo, bone, progwml6"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/74924-mantle/files/2251211/download",
+                    "fileName": "mantle.jar"
+                },
+                {
+                    "name": "Millenaire",
+                    "url": "http://millenaire.org/",
+                    "authors": [
+                        "Kinniken"
+                    ],
+                    "downloadUrl": "http://millenaire.org/php/dl.php?file=Millenaire6.0.0.zip",
+                    "fileName": "millenaire.zip"
+                },
+                {
+                    "name": "Doggy Talents",
+                    "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287584-doggy-talents-a-day-dogs-would-not-drown-now",
+                    "authors": [
+                        "ProPercivalalb"
+                    ],
+                    "downloadUrl": "",
+                    "fileName": ""
+                },
+                {
+                    "name": "Minetweaker 3",
+                    "url": "http://minecraft.curseforge.com/mc-mods/224029-minetweaker3",
+                    "authors": [
+                        "StanH"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224029-minetweaker3/files/2233934/download",
+                    "fileName": "minetweaker.jar"
+                },
+                {
+                    "name": "ModTweaker 2",
+                    "url": "http://minecraft.curseforge.com/mc-mods/220954-modtweaker",
+                    "authors": [
+                        "jaredllll08, joshiesjack, SpitefulFox, Yulife, Zixxl"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/220954-modtweaker/files/2252080/download",
+                    "fileName": "modteaker.jar"
+                },
+                {
+                    "name": "More Boiler Options",
+                    "url": "http://minecraft.curseforge.com/mc-mods/229705-more-boiler-options",
+                    "authors": [
+                        "UntouchedWagons"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/229705-more-boiler-options/files/2234808/download",
+                    "fileName": "moreboileroptions.jar"
+                },
+                {
+                    "name": "No Mob Spawning On Trees",
+                    "url": "http://minecraft.curseforge.com/mc-mods/226779-no-mob-spawning-on-trees",
+                    "authors": [
+                        "oldjunyi"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/226779-no-mob-spawning-on-trees/files/2223826/download",
+                    "fileName": "NMSOT.jar"
+                },
+                {
+                    "name": "NotEnoughResources",
+                    "url": "http://minecraft.curseforge.com/mc-mods/225815-notenoughresources",
+                    "authors": [
+                        "Way2muchnoise, hilburn"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/225815-notenoughresources/files/2248935/download",
+                    "fileName": "NER.jar"
+                },
+                {
+                    "name": "OpenBlocks",
+                    "url": "http://minecraft.curseforge.com/mc-mods/228816-openblocks",
+                    "authors": [
+                        "OpenMods, other_boq"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/228816-openblocks/files/2250321/download",
+                    "fileName": "openblocks.jar"
+                },
+                {
+                    "name": "OpenModsLib",
+                    "url": "http://minecraft.curseforge.com/mc-mods/228815-openmodslib",
+                    "authors": [
+                        "OpenMods, other_boq"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/228815-openmodslib/files/2250318/download",
+                    "fileName": "openmodslib.jar"
+                },
+                {
+                    "name": "OpenModularTurrents",
+                    "url": "http://minecraft.curseforge.com/mc-mods/224663-openmodularturrets",
+                    "authors": [
+                        "Keridos"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224663-openmodularturrets/files/2249304/download",
+                    "fileName": "OMT.jar"
+                },
+                {
+                    "name": "Pneumatic Cooking",
+                    "url": "http://minecraft.curseforge.com/mc-mods/223118-pneumatic-popcorn/",
+                    "authors": [
+                        "j3FF97"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/223118-pneumatic-popcorn/files/2211209/download",
+                    "fileName": "pneumaticcooking.jar"
+                },
+                {
+                    "name": "PneumaticCraft",
+                    "url": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft",
+                    "authors": [
+                        "Minemaarten"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/files/2253878/download",
+                    "fileName": "pneumaticcraft.jar"
+                },
+                {
+                    "name": "Railcraft",
+                    "url": "http://minecraft.curseforge.com/mc-mods/51195-railcraft",
+                    "authors": [
+                        "CovertJaguar"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/51195-railcraft/files/2251559/download",
+                    "fileName": "railcraft.jar"
+                },
+                {
+                    "name": "Runic Dungeons",
+                    "url": "http://minecraft.curseforge.com/mc-mods/227065-runic-dungeons",
+                    "authors": [
+                        "MrComputerGhost"
+                    ],
+                    "downloadUrl": "http://minecraft.curseforge.com/mc-mods/227065-runic-dungeons/files/2245946/download",
+                    "fileName": "runicdungeons.jar"
                 },
                 {
                     "name": "Tinker's Construct",
