@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/vanilla.json
 https://github.com/TemporalReality/modpacks/raw/master/packs/test.json
+https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/Acuity.json
