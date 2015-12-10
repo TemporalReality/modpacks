@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/jordsta95/forsolspack/master/salty-sea-men.json
-https://github.com/TemporalReality/modpacks/blob/master/packs/TolkienCraft%20II.json
+https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/TolkienCraft%20II.json
