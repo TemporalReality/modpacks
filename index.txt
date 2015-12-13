@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/basically-basic.json
 https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/ingenuity.json
+https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/Acuity.json
