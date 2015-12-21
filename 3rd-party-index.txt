@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/TolkienCraftII.json
+https://raw.githubusercontent.com/TemporalReality/3rd-Party-Modpacks/master/packs/TolkienCraft%20II.json
