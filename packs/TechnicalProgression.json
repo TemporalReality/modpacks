@@ -1,0 +1,237 @@
+{
+	"name": "technicalprogression",
+	"displayName": "Technical Progression",
+	"author": "The Temporal Reality Team",
+	"description": "A tech-oriented pack, aimed at trying to integrate mods in a non-intrusive and logical way, so that the user can feel a sense of achievement when they reach their goals. \nThe changes to this pack are not made to increase the amount of 'grind' needed to reach a personal goal, but instead to feel like you are following a process, and needing all infrastructure that you have.\n \n \nThis pack contains Fastcraft, by Player, enabled by default. Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled.\nDo note that in some cases Fastcraft can hinder performance. Should you notice you are having FPS issues, try disabling Fastcraft before seeking help, as this can resolve the issue in some cases.",
+	"logoUrl": "",
+	"versions": [{
+		"version": "1.0.0",
+		"changelogUrl": "",
+		"mcVersion": "1.7.10",
+		"forgeVersion": "1.7.10-10.13.4.1614-1.7.10",
+		"overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqNkdwXzV0NGk3d0U",
+		"mods": [{
+			"name": "Pistronics 2",
+			"url": "http://www.curse.com/mc-mods/minecraft/237211-pistronics-2",
+			"authors": ["Letiu"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/237211-pistronics-2/files/2268267/download",
+			"fileName": "1.7.10-Pistronics2-v0.6.3.jar.jar"
+		}, {
+			"name": "AgriCraft",
+			"url": "http://www.curse.com/mc-mods/minecraft/225635-agricraft",
+			"authors": ["InfinityRaider"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/225635-agricraft/files/2271837/download",
+			"fileName": "AgriCraft-1.7.10-1.4.6-hotfix.jar.jar"
+		}, {
+			"name": "Applied Energistics 2",
+			"url": "http://www.curse.com/mc-mods/minecraft/223794-applied-energistics-2",
+			"authors": ["AlgorithmX2,Cisien,thatsIch,fireball1725,akarso"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/223794-applied-energistics-2/files/2272472/download",
+			"fileName": "appliedenergistics2-rv3-beta-2.jar.jar"
+		}, {
+			"name": "Alternate Terrain Generation",
+			"url": "http://www.curse.com/mc-mods/minecraft/228356-alternate-terrain-generation",
+			"authors": ["TTFTCUTS"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/228356-alternate-terrain-generation/files/2231153/download",
+			"fileName": "ATG 0.12.0 for Minecraft 1.7.10.jar"
+		}, {
+			"name": "BdLib",
+			"url": "http://www.curse.com/mc-mods/minecraft/bdlib",
+			"authors": ["bdew"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/bdlib/files/2269259/download",
+			"fileName": "bdlib-1.9.4.109-mc1.7.10.jar.jar"
+		}, {
+			"name": "BuildCraft|Core",
+			"url": "http://www.curse.com/mc-mods/minecraft/231305-buildcraft-core",
+			"authors": ["CovertJaguar,AEnterprise,buildcraftchildsplay"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/231305-buildcraft-core/files/2270426/download",
+			"fileName": "Buildcraft Core 7.1.14.jar"
+		}, {
+			"name": "BuildCraft|Transport",
+			"url": "http://www.curse.com/mc-mods/minecraft/231312-buildcraft-transport",
+			"authors": ["CovertJaguar,AEnterprise"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/231312-buildcraft-transport/files/2270430/download",
+			"fileName": "Buildcraft Transport 7.1.14.jar"
+		}, {
+			"name": "BuildCraft|Silicon",
+			"url": "http://www.curse.com/mc-mods/minecraft/231311-buildcraft-silicon",
+			"authors": ["CovertJaguar,AEnterprise"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/231311-buildcraft-silicon/files/2270433/download",
+			"fileName": "Buildcraft Silicon 7.1.14.jar"
+		}, {
+			"name": "CodeChickenCore",
+			"url": "http://www.curse.com/mc-mods/minecraft/222213-codechickencore",
+			"authors": ["chicken_bones"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/222213-codechickencore/files/2262089/download",
+			"fileName": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar.jar"
+		}, {
+			"name": "CoFH Core",
+			"url": "http://www.curse.com/mc-mods/minecraft/cofhcore",
+			"authors": ["TeamCoFH,KingLemming,Jadedcat,ZeldoKavira,skyboy026"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/cofhcore/files/2246919/download",
+			"fileName": "CoFHCore-[1.7.10]3.0.3-303.jar.jar"
+		}, {
+			"name": "Extra Utilities",
+			"url": "http://www.curse.com/mc-mods/minecraft/225561-extra-utilities",
+			"authors": ["RWTema"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/225561-extra-utilities/files/2264383/download",
+			"fileName": "Extra Utilities 1.2.12.jar"
+		}, {
+			"name": "FastLeafDecay",
+			"url": "http://www.curse.com/mc-mods/minecraft/230976-fastleafdecay",
+			"authors": ["Olafskii"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/230976-fastleafdecay/files/2272838/download",
+			"fileName": "FastLeafDecay-1.7.10-1.4.jar.jar"
+		}, {
+			"name": "Forestry",
+			"url": "http://www.curse.com/mc-mods/minecraft/forestry",
+			"authors": ["SirSengir,CovertJaguar,MysteriousAges,mezz"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/forestry/files/2272933/download",
+			"fileName": "Forestry 4.2.4.jar"
+		}, {
+			"name": "NEI Addons",
+			"url": "http://www.curse.com/mc-mods/minecraft/nei-addons",
+			"authors": ["bdew"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/nei-addons/files/2262120/download",
+			"fileName": "neiaddons-1.12.14.40-mc1.7.10.jar.jar"
+		}, {
+			"name": "Gendustry",
+			"url": "http://www.curse.com/mc-mods/minecraft/gendustry",
+			"authors": ["bdew"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/gendustry/files/2269267/download",
+			"fileName": "gendustry-1.6.3.132-mc1.7.10.jar.jar"
+		}, {
+			"name": "In-Game Wiki Mod",
+			"url": "http://www.curse.com/mc-mods/minecraft/223815-in-game-wiki-mod",
+			"authors": ["MineMaarten"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/223815-in-game-wiki-mod/files/2257362/download",
+			"fileName": "IGW-Mod-1.7.10-1.1.11-32-universal.jar.jar"
+		}, {
+			"name": "Inventory Tweaks",
+			"url": "http://www.curse.com/mc-mods/minecraft/223094-inventory-tweaks",
+			"authors": ["Kobata"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/223094-inventory-tweaks/files/2210792/download",
+			"fileName": "Inventory Tweaks 1.59-dev-152.jar"
+		}, {
+			"name": "Jabba",
+			"url": "http://www.curse.com/mc-mods/minecraft/jabba",
+			"authors": ["ProfMobius,taelnia"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/jabba/files/2229724/download",
+			"fileName": "Jabba-1.2.1a_1.7.10.jar.jar"
+		}, {
+			"name": "JourneyMap",
+			"url": "http://www.curse.com/mc-mods/minecraft/journeymap-32274",
+			"authors": ["techbrew"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/journeymap-32274/files/2269314/download",
+			"fileName": "journeymap-1.7.10-5.1.3.jar"
+		}, {
+			"name": "Logistics Pipes",
+			"url": "http://www.curse.com/mc-mods/minecraft/232838-logistics-pipes",
+			"authors": ["RS485,davboecki,theZorro266"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/232838-logistics-pipes/files/2268969/download",
+			"fileName": "Logistics Pipes 0.9.3 (BC7) build 70.jar"
+		}, {
+			"name": "Mantle",
+			"url": "http://www.curse.com/mc-mods/minecraft/mantle",
+			"authors": ["mDiyo,progwml6,Alexbegt,bonusboni"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/mantle/files/2264244/download",
+			"fileName": "Mantle-1.7.10-0.3.2b.jar.jar"
+		}, {
+			"name": "MineTweaker3",
+			"url": "http://www.curse.com/mc-mods/minecraft/224029-minetweaker3",
+			"authors": ["StanH"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/224029-minetweaker3/files/2259434/download",
+			"fileName": "MineTweaker3-1.7.10-3.0.10B.jar.jar"
+		}, {
+			"name": "ModTweaker",
+			"url": "http://www.curse.com/mc-mods/minecraft/220954-modtweaker",
+			"authors": ["jaredlll08,Assassinfox,joshiejack,Voidi1,Zixxl,Yulife"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/220954-modtweaker/files/2270009/download",
+			"fileName": "ModTweaker2 - 0.9.5.jar"
+		}, {
+			"name": "Morpheus",
+			"url": "http://www.curse.com/mc-mods/minecraft/morpheus",
+			"authors": ["quetzi"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/morpheus/files/2269412/download",
+			"fileName": "Morpheus-1.7.10-1.6.20.jar.jar"
+		}, {
+			"name": "NEI Integration",
+			"url": "http://www.curse.com/mc-mods/minecraft/225251-nei-integration",
+			"authors": ["tonius111"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/225251-nei-integration/files/2272481/download",
+			"fileName": "NEIIntegration-MC1.7.10-1.1.1.jar.jar"
+		}, {
+			"name": "NotEnoughItems",
+			"url": "http://www.curse.com/mc-mods/minecraft/222211-notenoughitems",
+			"authors": ["chicken_bones"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/222211-notenoughitems/files/2262091/download",
+			"fileName": "NotEnoughItems-1.7.10-1.0.5.118-universal.jar.jar"
+		}, {
+			"name": "NotEnoughResources",
+			"url": "http://www.curse.com/mc-mods/minecraft/225815-notenoughresources",
+			"authors": ["Way2muchnoise,hilburn"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/225815-notenoughresources/files/2269453/download",
+			"fileName": "NotEnoughResources-1.7.10-0.1.0-121.jar"
+		}, {
+			"name": "OpenComputers",
+			"url": "http://www.curse.com/mc-mods/minecraft/223008-opencomputers",
+			"authors": ["Kethtar"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/223008-opencomputers/files/2272867/download",
+			"fileName": "OpenComputers-MC1.7.10-1.5.21.41-universal.jar.jar"
+		}, {
+			"name": "PneumaticCraft",
+			"url": "http://www.curse.com/mc-mods/minecraft/224125-pneumaticcraft",
+			"authors": ["MineMaarten"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/224125-pneumaticcraft/files/2271111/download",
+			"fileName": "PneumaticCraft-1.7.10-1.12.3-146-universal.jar.jar"
+		}, {
+			"name": "Project Red - Base",
+			"url": "http://www.curse.com/mc-mods/minecraft/228702-project-red-base",
+			"authors": ["Mr_TJP"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/228702-project-red-base/files/2255230/download",
+			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Base.jar.jar"
+		}, {
+			"name": "Project Red - Integration",
+			"url": "http://www.curse.com/mc-mods/minecraft/229045-project-red-integration",
+			"authors": ["Mr_TJP"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/229045-project-red-integration/files/2255233/download",
+			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Integration.jar.jar"
+		}, {
+			"name": "Project Red - Lighting",
+			"url": "http://www.curse.com/mc-mods/minecraft/229046-project-red-lighting",
+			"authors": ["Mr_TJP"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/229046-project-red-lighting/files/2255235/download",
+			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Lighting.jar.jar"
+		}, {
+			"name": "Railcraft",
+			"url": "http://www.curse.com/mc-mods/minecraft/railcraft",
+			"authors": ["CovertJaguar"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/railcraft/files/2263415/download",
+			"fileName": "Railcraft 9.8.0.0.jar"
+		}, {
+			"name": "TiC Tooltips",
+			"url": "http://www.curse.com/mc-mods/minecraft/tic-tooltips",
+			"authors": ["squeek502"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/tic-tooltips/files/2246472/download",
+			"fileName": "TiCTooltips-mc1.7.10-1.2.5.jar.jar"
+		}, {
+			"name": "Tinkers Construct",
+			"url": "http://www.curse.com/mc-mods/minecraft/tinkers-construct",
+			"authors": ["mDiyo,Jadedcat,bonusboni"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/tinkers-construct/files/2264246/download",
+			"fileName": "TConstruct-1.7.10-1.8.8.jar.jar"
+		}, {
+			"name": "Tinkers' Mechworks",
+			"url": "http://www.curse.com/mc-mods/minecraft/tinkers-mechworks",
+			"authors": ["mDiyo,JeanGlassmaker,bonusboni"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/tinkers-mechworks/files/2272157/download",
+			"fileName": "TMechworks-1.7.10-0.2.15.106.jar.jar"
+		}, {
+			"name": "Waila",
+			"url": "http://www.curse.com/mc-mods/minecraft/waila",
+			"authors": ["ProfMobius"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/waila/files/2230518/download",
+			"fileName": "Waila-1.5.10_1.7.10.jar.jar"
+		}]
+	}]
+}
