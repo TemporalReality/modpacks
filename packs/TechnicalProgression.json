@@ -9,7 +9,7 @@
 		"changelogUrl": "",
 		"mcVersion": "1.7.10",
 		"forgeVersion": "1.7.10-10.13.4.1614-1.7.10",
-		"overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqNkdwXzV0NGk3d0U",
+		"overrideUrl": "https://drive.google.com/uc?export=download&id=0B8r-tInqaIJqY0t0WHhVQkxsRGs",
 		"mods": [{
 			"name": "Pistronics 2",
 			"url": "http://www.curse.com/mc-mods/minecraft/237211-pistronics-2",
@@ -188,20 +188,20 @@
 			"name": "Project Red - Base",
 			"url": "http://www.curse.com/mc-mods/minecraft/228702-project-red-base",
 			"authors": ["Mr_TJP"],
-			"downloadUrl": "http://minecraft.curseforge.com/projects/228702-project-red-base/files/2255230/download",
-			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Base.jar.jar"
+			"downloadUrl": "http://minecraft.curseforge.com/projects/project-red-base/files/2274225/download",
+			"fileName": "ProjectRed-1.7.10-4.7.0pre10.93-Base.jar"
 		}, {
 			"name": "Project Red - Integration",
 			"url": "http://www.curse.com/mc-mods/minecraft/229045-project-red-integration",
 			"authors": ["Mr_TJP"],
-			"downloadUrl": "http://minecraft.curseforge.com/projects/229045-project-red-integration/files/2255233/download",
-			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Integration.jar.jar"
+			"downloadUrl": "http://minecraft.curseforge.com/projects/project-red-integration/files/2274228/download",
+			"fileName": "ProjectRed-1.7.10-4.7.0pre10.93-Integration.jar"
 		}, {
 			"name": "Project Red - Lighting",
 			"url": "http://www.curse.com/mc-mods/minecraft/229046-project-red-lighting",
 			"authors": ["Mr_TJP"],
-			"downloadUrl": "http://minecraft.curseforge.com/projects/229046-project-red-lighting/files/2255235/download",
-			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Lighting.jar.jar"
+			"downloadUrl": "http://minecraft.curseforge.com/projects/project-red-lighting/files/2274230/download",
+			"fileName": "ProjectRed-1.7.10-4.7.0pre10.93-Lighting.jar"
 		}, {
 			"name": "Railcraft",
 			"url": "http://www.curse.com/mc-mods/minecraft/railcraft",
