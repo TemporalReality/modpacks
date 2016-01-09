@@ -1,2 +1,1 @@
 https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/vanilla.json
-https://raw.githubusercontent.com/TemporalReality/modpacks/master/packs/TechnicalProgression.json
