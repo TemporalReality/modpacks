@@ -3,7 +3,7 @@
 	"displayName": "Technical Progression",
 	"author": "The Temporal Reality Team",
 	"description": "A tech-oriented pack, aimed at trying to integrate mods in a non-intrusive and logical way, so that the user can feel a sense of achievement when they reach their goals. \nThe changes to this pack are not made to increase the amount of 'grind' needed to reach a personal goal, but instead to feel like you are following a process, and needing all infrastructure that you have.\n \n \nThis pack contains Fastcraft, by Player, enabled by default. Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled.\nDo note that in some cases Fastcraft can hinder performance. Should you notice you are having FPS issues, try disabling Fastcraft before seeking help, as this can resolve the issue in some cases.",
-	"logoUrl": "",
+	"logoUrl": "http://i.imgur.com/lBhL6n7.png",
 	"versions": [{
 		"version": "1.0.0",
 		"changelogUrl": "",
