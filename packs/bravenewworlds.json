@@ -1,0 +1,195 @@
+{
+	"name": "bravenewworlds",
+	"displayName": "Brave New Worlds",
+	"author": "The Temporal Reality Team",
+	"description": "We have been playing in 1.7.10 for a while now. It's time to step into the Brave New World of 1.8.9",
+	"logoUrl": "",
+	"versions": [{
+		"version": "TESTING",
+		"changelogUrl": "",
+		"mcVersion": "1.8.9",
+		"forgeVersion": "1.8.9-11.15.1.1726-1.8.9",
+		"overrideUrl": "https://www.dropbox.com/s/uqpg0frsqw3ert9/1.8.9 Test Configs.zip?dl=1",
+		"mods": [{
+			"name": "BuildCraft|Core",
+			"url": "http://www.curse.com/mc-mods/minecraft/231305-buildcraft-core",
+			"authors": ["CovertJaguar,AEnterprise,buildcraftchildsplay"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/231305-buildcraft-core/files/2270426/download",
+			"fileName": "Buildcraft Core 7.1.14.jar"
+		}, {
+			"name": "BuildCraft|Transport",
+			"url": "http://www.curse.com/mc-mods/minecraft/231312-buildcraft-transport",
+			"authors": ["CovertJaguar,AEnterprise"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/231312-buildcraft-transport/files/2270430/download",
+			"fileName": "Buildcraft Transport 7.1.14.jar"
+		}, {
+			"name": "BuildCraft|Silicon",
+			"url": "http://www.curse.com/mc-mods/minecraft/231311-buildcraft-silicon",
+			"authors": ["CovertJaguar,AEnterprise"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/231311-buildcraft-silicon/files/2270433/download",
+			"fileName": "Buildcraft Silicon 7.1.14.jar"
+		}, {
+			"name": "Tinkers' Mechworks",
+			"url": "http://www.curse.com/mc-mods/minecraft/tinkers-mechworks",
+			"authors": ["mDiyo,JeanGlassmaker,bonusboni"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/tinkers-mechworks/files/2272157/download",
+			"fileName": "TMechworks-1.7.10-0.2.15.106.jar.jar"
+		}, {
+			"name": "AppleCore",
+			"url": "http://www.curse.com/mc-mods/minecraft/224472-applecore",
+			"authors": ["squeek502"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/224472-applecore/files/2277394/download",
+			"fileName": "AppleCore-mc1.8.9-1.3.0.jar.jar"
+		}, {
+			"name": "BetterFps",
+			"url": "http://www.curse.com/mc-mods/minecraft/229876-betterfps",
+			"authors": ["Guichaguri"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/229876-betterfps/files/2271480/download",
+			"fileName": "v1.2.0.jar"
+		}, {
+			"name": "BigTrees",
+			"url": "http://www.curse.com/mc-mods/minecraft/239267-bigtrees",
+			"authors": ["thevidaj"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/239267-bigtrees/files/2273911/download",
+			"fileName": "bigtrees-0.2-1.8.9.jar.jar"
+		}, {
+			"name": "Blood Magic ",
+			"url": "http://www.curse.com/mc-mods/minecraft/224791-blood-magic",
+			"authors": ["WayofTime,TehNut,BBoldt,theCyanideX,Yulife,Arcaratus"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/224791-blood-magic/files/2279221/download",
+			"fileName": "BloodMagic-1.8.9-2.0.0-13.jar.jar"
+		}, {
+			"name": "Chameleon",
+			"url": "http://www.curse.com/mc-mods/minecraft/230497-chameleon",
+			"authors": ["jaquadro"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/230497-chameleon/files/2276656/download",
+			"fileName": "Chameleon-1.8.9-0.2.1.jar.jar"
+		}, {
+			"name": "Chisels & Bits",
+			"url": "http://www.curse.com/mc-mods/minecraft/231095-chisels-bits",
+			"authors": ["AlgorithmX2"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/231095-chisels-bits/files/2279333/download",
+			"fileName": "chiselsandbits-v1.8.7.jar.jar"
+		}, {
+			"name": "CraftingTable IV",
+			"url": "http://www.curse.com/mc-mods/minecraft/231840-craftingtable-iv",
+			"authors": ["Elec332"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/231840-craftingtable-iv/files/2277069/download",
+			"fileName": "CraftingTableIV-1.8.9-1.2.84.jar.jar"
+		}, {
+			"name": "ElecCore | Rendering Library",
+			"url": "http://www.curse.com/mc-mods/minecraft/227391-eleccore-rendering-library",
+			"authors": ["Elec332"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/227391-eleccore-rendering-library/files/2277021/download",
+			"fileName": "ElecCore-1.8.9-1.4.220.jar.jar"
+		}, {
+			"name": "EnderTanks",
+			"url": "http://www.curse.com/mc-mods/minecraft/endertanks",
+			"authors": ["ShetiPhian,Fruzstrated"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/endertanks/files/2275581/download",
+			"fileName": "EnderTanks-1.8.9-1.2.0.jar.jar"
+		}, {
+			"name": "EZStorage",
+			"url": "http://www.curse.com/mc-mods/minecraft/233225-ezstorage",
+			"authors": ["zero__fall"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/233225-ezstorage/files/2274916/download",
+			"fileName": "ezstorage-1.8.9-1.2.2.jar.jar"
+		}, {
+			"name": "Hydraulicraft",
+			"url": "http://www.curse.com/mc-mods/minecraft/223036-hydraulicraft",
+			"authors": ["K4Unl,CallMeFoxie"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/223036-hydraulicraft/files/2278728/download",
+			"fileName": "HydCraft-1.8.9-3.1.34-universal.jar.jar"
+		}, {
+			"name": "In-Game Wiki Mod",
+			"url": "http://www.curse.com/mc-mods/minecraft/223815-in-game-wiki-mod",
+			"authors": ["MineMaarten"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/223815-in-game-wiki-mod/files/2276687/download",
+			"fileName": "IGW-Mod-1.8.9-1.2.3-3-universal.jar.jar"
+		}, {
+			"name": "Inventory Tweaks",
+			"url": "http://www.curse.com/mc-mods/minecraft/223094-inventory-tweaks",
+			"authors": ["Kobata"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/223094-inventory-tweaks/files/2275675/download",
+			"fileName": "Inventory Tweaks 1.60-beta-30.jar"
+		}, {
+			"name": "Just Enough Items (JEI)",
+			"url": "http://www.curse.com/mc-mods/minecraft/238222-just-enough-items-jei",
+			"authors": ["mezz"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/238222-just-enough-items-jei/files/2279280/download",
+			"fileName": "jei_1.8.9-2.24.2.125.jar.jar"
+		}, {
+			"name": "JEIAddons",
+			"url": "http://www.curse.com/mc-mods/minecraft/238660-jeiaddons",
+			"authors": ["mezz"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/238660-jeiaddons/files/2278981/download",
+			"fileName": "JEIAddons_1.8.9-0.10.1.39.jar.jar"
+		}, {
+			"name": "JourneyMap",
+			"url": "http://www.curse.com/mc-mods/minecraft/journeymap-32274",
+			"authors": ["techbrew"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/journeymap-32274/files/2269324/download",
+			"fileName": "journeymap-1.8.8-5.1.3.jar"
+		}, {
+			"name": "Just Enough Resources (JER)",
+			"url": "http://www.curse.com/mc-mods/minecraft/240630-just-enough-resources-jer",
+			"authors": ["Way2muchnoise"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/240630-just-enough-resources-jer/files/2278868/download",
+			"fileName": "JustEnoughResources-1.8.9-0.3.1.jar"
+		}, {
+			"name": "K4Lib",
+			"url": "http://www.curse.com/mc-mods/minecraft/224740-k4lib",
+			"authors": ["K4Unl"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/224740-k4lib/files/2278854/download",
+			"fileName": "k4lib-1.8.9-1.0.8-universal.jar.jar"
+		}, {
+			"name": "MCMultiPart",
+			"url": "http://www.curse.com/mc-mods/minecraft/239431-mcmultipart",
+			"authors": ["amadornes"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/239431-mcmultipart/files/2276306/download",
+			"fileName": "MCMultiPart 1.0.5.jar"
+		}, {
+			"name": "Mantle",
+			"url": "http://www.curse.com/mc-mods/minecraft/mantle",
+			"authors": ["mDiyo, Bonii"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/mantle/files/2276884/download",
+			"fileName": "Mantle-mDiyo, Bonii.jar"
+		}, {
+			"name": "Tinkers Construct",
+			"url": "http://minecraft.curseforge.com/projects/tinkers-construct",
+			"authors": ["mDiyo, Bonii"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/tinkers-construct/files/2276883/download",
+			"fileName": "Tinkers Construct-mDiyo, Bonii.jar"
+		}, {
+			"name": "Morpheus",
+			"url": "http://www.curse.com/mc-mods/minecraft/morpheus",
+			"authors": ["quetzi"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/morpheus/files/2274266/download",
+			"fileName": "Morpheus-1.8.9-2.0.57.jar.jar"
+		}, {
+			"name": "ShetiPhianCore",
+			"url": "http://www.curse.com/mc-mods/minecraft/shetiphiancore",
+			"authors": ["ShetiPhian"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/shetiphiancore/files/2275578/download",
+			"fileName": "ShetiPhianCore-1.8.9-3.0.3.jar.jar"
+		}, {
+			"name": "Storage Drawers",
+			"url": "http://www.curse.com/mc-mods/minecraft/223852-storage-drawers",
+			"authors": ["jaquadro"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/223852-storage-drawers/files/2279276/download",
+			"fileName": "StorageDrawers-1.8.9-2.3.0.jar.jar"
+		}, {
+			"name": "Thaumcraft",
+			"url": "http://www.curse.com/mc-mods/minecraft/223628-thaumcraft",
+			"authors": ["azanor"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/223628-thaumcraft/files/2276528/download",
+			"fileName": "Thaumcraft-1.8.9-5.1.4.jar.jar"
+		}, {
+			"name": "Waila",
+			"url": "http://www.curse.com/mc-mods/minecraft/waila",
+			"authors": ["ProfMobius"],
+			"downloadUrl": "http://minecraft.curseforge.com/projects/waila/files/2270821/download",
+			"fileName": "Waila-1.6.0-B3_1.8.8.jar.jar"
+		}]
+	}]
+}
